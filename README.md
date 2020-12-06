@@ -1,2 +1,2 @@
 # portfolio
-Personal Portfolio
+Portfolio used for the class CS 50X
