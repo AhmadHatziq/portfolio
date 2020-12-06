@@ -48,24 +48,45 @@
 						The aim of this project is to give a rough estimate for individuals to check if they are at risk of heart disease. 
 					</p>
 				</header>
-				<p>
-					This project is part of the NUS module <a href = "https://nusmods.com/modules/CS3244/machine-learning">CS3244: Machine Learning</a>.
-				</p>
+	
+
+				<section>
+					<h3>Summary</h3>
+					<p>
+						This project is part of the NUS module <a href = "https://nusmods.com/modules/CS3244/machine-learning">CS3244: Machine Learning</a>.
+					</p>
+					<p>
+						The dataset is obtained from the <a href = "https://archive.ics.uci.edu/ml/datasets/heart+disease">UCL Machine Learning repository</a>.  
+						The aim is to create a model that effectively classifies heart disease (Yes or No) based on AUC Score. The ML models are trained on a 75-25 train-test split with 
+						5-fold cross validation. 
+					</p>
+					<p>
+						The best model obtained was by using LDA. To further investigate the variables, Partial Dependance Plots (PDP) for each non-categorical variable were obtained. The reference
+						notebook for the PDP is <a href = "https://www.kaggle.com/tentotheminus9/what-causes-heart-disease-explaining-the-model">here</a>. It was found that Serum Cholestrol
+						was most significant in affecting heart disease, based on the UCL dataset. 
+					</p>
+					<img src = "/images/3244/feature_importance.png" alt = "Feature Importance" width = "500" height = "500">
+					<img src = "images/3244/pdp_chol.png" alt = "PDP for Cholestrol" width = "500" height = "400">
+					<p>
+						The project <a href = "#video">video</a>, <a href = "#poster">poster</a> and <a href = "#report">report</a> are located below.
+					</p>
+				</section>
 				
-				<h3>Video</h3>
+				<h3 id = "video">Video</h3>
 				<iframe width="560" height="315" src="https://www.youtube.com/embed/p2lHbipmW7M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				
 				<br>
 				
-				<h3>Poster</h3>
+				<h3 id = "poster" >Poster</h3> <a id = "poster"></a>
 				<iframe src="https://docs.google.com/gview?url=https://ahmadhatziq.github.io/portfolio/pdfs/cs3244_poster.pdf&embedded=true" height="1000" width="1000" frameborder="0"></iframe>
-
 				
-				<h3>Report</h3>
+				<h3 id = "report">Report</h3>
 				<iframe src="https://docs.google.com/gview?url=https://ahmadhatziq.github.io/portfolio/pdfs/cs3244_report.pdf&embedded=true" height="1800" width="1000" frameborder="0"></iframe>
 
 			</article>
 			</section>
+
+			
 		</div>
 
 			
