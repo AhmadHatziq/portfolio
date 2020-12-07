@@ -1,0 +1,113 @@
+<!DOCTYPE HTML>
+<!--
+	Helios by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Clinic Simulation</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+
+	<body class="wrapper style2">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<div id="header">
+
+					<!-- Inner -->
+						<div class="inner">
+							<header>
+								<h1><a href="index.html" id="logo">Projects</a></h1>
+							</header>
+						</div>
+
+					<!-- Nav -->
+						<nav id="nav">
+							<ul>
+								<li><a href="index.html">Home</a></li>		
+								<li><a href="left-sidebar.html">Projects</a></li>
+								<li><a href="right-sidebar.html">Courses</a></li>
+							</ul>
+						</nav>
+
+				</div>
+		</div>
+
+		<div class="wrapper style2">
+			<section>
+			<article id="main" class="container special">
+				
+				<header>
+					<h2>Clinic Patient Discrete Event Simulation</h2>
+					<p>
+						The aim of this project is to improve a walk-in patient’s experience by <b>MINIMIZING</b> their overall waiting time or time spent in system during the morning.
+					</p>
+				</header>
+	
+
+				<section>
+					<h3>Summary</h3>
+					<p>
+						This project is part of the NUS module <a href = "https://latest.nusmods.com/modules/IE3110/simulation">IE3110: Simulation</a>.
+					</p>
+					<p>
+						Data was manually collected from the University Clinic. With the data, distributions were fit and their corresponding statistical tests
+						confirmed these distributions. A simulation model was then built with these distributions.
+					</p>
+				</section>
+
+				<section>
+					<h3>Data Collection </h3>
+					<p>Before collecting the data, we have to understand the journey that a typical patient goes through.</p>
+					<img src = "images/3110/patient_journey.jpg" width = "75%" height = "75%">
+					<p>
+						A typical patient would firstly arrive at the clinic and queue at the registration counter. Following which, the patient would be issued with a 
+						queue number and wait to be consulted by the doctor. After the doctor is finished, the patient would then have to wait to collect medication.
+						Finally, the patient has to wait before making payment.
+					</p>
+					<p>
+						The data collection process is as follows:
+					</p>
+					<img src = "images/3110/data_collection.jpg" width = "75%" height = "75%">
+					<p>
+						After collecting the data, the following distributions were obtained.
+					</p>
+					<img src = "images/3110/distributions.png"  width = "75%" height = "75%">
+				</section>
+
+				<section>
+					<h3>Building the Simulation Model</h3>
+					<br>
+					<img src = "images/3110/model.png" width = "95%" height = "75%">
+					<p>
+						The simulation model was built using <a hred = "https://www.appliedmaterials.com/global-services/automod-academic-program">AutoMod</a>. 
+						The code files can be found here. 
+					</p>
+				</section>
+				
+			
+			</article>
+			</section>
+
+			
+		</div>
+
+			
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

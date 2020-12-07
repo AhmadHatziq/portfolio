@@ -1,0 +1,105 @@
+0.00: Starting.
+0.00: Datafiles have been read. Initializing model.
+0.00: Model image prepared... Ready to simulate.
+54.39: Load 6 (L_outPatient) left SERVER 1 to enter Consultation 
+77.08: Load 4 (L_outPatient) left SERVER 2 to enter Consultation 
+87.27: Load 7 (L_outPatient) left SERVER 4 to enter Consultation 
+124.79: Load 13 (L_checkUp) left SERVER 2 to enter Check Up 
+198.21: Load 5 (L_outPatient) left SERVER 3 to enter Consultation 
+219.34: Load 10 (L_outPatient) left SERVER 4 to enter Consultation 
+247.23: Load 8 (L_outPatient) left SERVER 1 to enter Consultation 
+290.72: Load 15 (L_checkUp) left SERVER 2 to enter Check Up 
+378.50: Load 11 (L_outPatient) left SERVER 3 to enter Consultation 
+420.45: Load 14 (L_checkUp) left SERVER 3 to enter Check Up 
+445.57: Load 9 (L_outPatient) left SERVER 1 to enter Consultation 
+484.08: Load 24 (L_checkUp) left SERVER 2 to enter Check Up 
+552.79: Load 25 (L_outPatient) left SERVER 1 to enter Consultation 
+624.71: Load 26 (L_checkUp) left SERVER 3 to enter Check Up 
+772.35: Load 28 (L_checkUp) left SERVER 2 to enter Check Up 
+905.00: Animation is off.
+912.85: Load 33 (L_outPatient) left SERVER 1 to enter Consultation 
+927.96: Load 32 (L_checkUp) left SERVER 3 to enter Check Up 
+1265.16: Load 12 (L_outPatient) left SERVER 4 to enter Consultation 
+1290.65: Load 39 (L_outPatient) left SERVER 3 to enter Consultation 
+1311.69: Load 36 (L_outPatient) left SERVER 1 to enter Consultation 
+1351.23: Load 42 (L_checkUp) left SERVER 3 to enter Check Up 
+1646.57: Load 44 (L_outPatient) left SERVER 3 to enter Consultation 
+1648.59: Load 47 (L_checkUp) left SERVER 1 to enter Check Up 
+1678.34: Load 16 (L_checkUp) left SERVER 4 to enter Check Up 
+1715.83: Load 48 (L_checkUp) left SERVER 3 to enter Check Up 
+1724.14: Load 27 (L_outPatient) left SERVER 4 to enter Consultation 
+1758.71: Load 37 (L_outPatient) left SERVER 2 to enter Consultation 
+1832.33: Load 40 (L_checkUp) left SERVER 2 to enter Check Up 
+2071.49: Load 50 (L_checkUp) left SERVER 4 to enter Check Up 
+2163.87: Load 51 (L_outPatient) left SERVER 3 to enter Consultation 
+2222.60: Load 52 (L_checkUp) left SERVER 4 to enter Check Up 
+2290.17: Load 53 (L_outPatient) left SERVER 1 to enter Consultation 
+2301.60: Load 54 (L_outPatient) left SERVER 3 to enter Consultation 
+2388.20: Load 59 (L_outPatient) left SERVER 3 to enter Consultation 
+2447.50: Load 57 (L_outPatient) left SERVER 4 to enter Consultation 
+2467.45: Load 58 (L_checkUp) left SERVER 1 to enter Check Up 
+2481.66: Load 55 (L_checkUp) left SERVER 2 to enter Check Up 
+2503.09: Load 60 (L_outPatient) left SERVER 3 to enter Consultation 
+2549.23: Load 61 (L_checkUp) left SERVER 1 to enter Check Up 
+2647.47: Load 65 (L_outPatient) left SERVER 1 to enter Consultation 
+2648.24: Load 63 (L_outPatient) left SERVER 2 to enter Consultation 
+2952.90: Load 67 (L_outPatient) left SERVER 3 to enter Consultation 
+2962.15: Load 68 (L_outPatient) left SERVER 1 to enter Consultation 
+3040.18: Load 70 (L_checkUp) left SERVER 3 to enter Check Up 
+3229.12: Load 73 (L_outPatient) left SERVER 2 to enter Consultation 
+3437.45: Load 74 (L_outPatient) left SERVER 3 to enter Consultation 
+3474.05: Load 76 (L_outPatient) left SERVER 1 to enter Consultation 
+3486.23: Load 75 (L_checkUp) left SERVER 4 to enter Check Up 
+3751.63: Load 77 (L_outPatient) left SERVER 4 to enter Consultation 
+3929.75: Load 79 (L_outPatient) left SERVER 3 to enter Consultation 
+4408.30: Load 85 (L_outPatient) left SERVER 3 to enter Consultation 
+4484.67: Load 87 (L_checkUp) left SERVER 3 to enter Check Up 
+4530.04: Load 84 (L_checkUp) left SERVER 2 to enter Check Up 
+4539.37: Load 88 (L_outPatient) left SERVER 4 to enter Consultation 
+4634.84: Load 89 (L_outPatient) left SERVER 4 to enter Consultation 
+4832.12: Load 93 (L_outPatient) left SERVER 1 to enter Consultation 
+4959.64: Load 91 (L_checkUp) left SERVER 4 to enter Check Up 
+5225.23: Load 97 (L_outPatient) left SERVER 4 to enter Consultation 
+5464.81: Load 92 (L_checkUp) left SERVER 3 to enter Check Up 
+5808.25: Load 102 (L_checkUp) left SERVER 2 to enter Check Up 
+5862.42: Load 103 (L_outPatient) left SERVER 1 to enter Consultation 
+6294.54: Load 104 (L_outPatient) left SERVER 2 to enter Consultation 
+6405.25: Load 110 (L_outPatient) left SERVER 2 to enter Consultation 
+6411.41: Load 106 (L_outPatient) left SERVER 3 to enter Consultation 
+6484.70: Load 109 (L_outPatient) left SERVER 4 to enter Consultation 
+6805.44: Load 113 (L_checkUp) left SERVER 4 to enter Check Up 
+6938.50: Load 116 (L_outPatient) left SERVER 4 to enter Consultation 
+7009.37: Load 114 (L_outPatient) left SERVER 3 to enter Consultation 
+7025.39: Load 118 (L_outPatient) left SERVER 1 to enter Consultation 
+7251.33: Load 122 (L_checkUp) left SERVER 3 to enter Check Up 
+7412.75: Load 121 (L_outPatient) left SERVER 1 to enter Consultation 
+7458.79: Load 124 (L_outPatient) left SERVER 2 to enter Consultation 
+7609.06: Load 125 (L_checkUp) left SERVER 1 to enter Check Up 
+7641.66: Load 126 (L_outPatient) left SERVER 3 to enter Consultation 
+7755.22: Load 127 (L_checkUp) left SERVER 2 to enter Check Up 
+7899.95: Load 130 (L_outPatient) left SERVER 1 to enter Consultation 
+7979.04: Load 131 (L_outPatient) left SERVER 1 to enter Consultation 
+8047.39: Load 129 (L_outPatient) left SERVER 3 to enter Consultation 
+8149.15: Load 132 (L_checkUp) left SERVER 1 to enter Check Up 
+8540.40: Load 136 (L_checkUp) left SERVER 3 to enter Check Up 
+8570.23: Load 137 (L_outPatient) left SERVER 1 to enter Consultation 
+8744.67: Load 138 (L_outPatient) left SERVER 1 to enter Consultation 
+9113.12: Load 140 (L_checkUp) left SERVER 3 to enter Check Up 
+9527.50: Load 146 (L_checkUp) left SERVER 2 to enter Check Up 
+9692.91: Load 147 (L_checkUp) left SERVER 3 to enter Check Up 
+9742.33: Load 149 (L_checkUp) left SERVER 1 to enter Check Up 
+10198.21: Load 152 (L_outPatient) left SERVER 3 to enter Consultation 
+10352.41: Load 154 (L_checkUp) left SERVER 3 to enter Check Up 
+11396.19: Load 159 (L_outPatient) left SERVER 3 to enter Consultation 
+11486.62: Load 160 (L_checkUp) left SERVER 2 to enter Check Up 
+11559.23: Load 161 (L_checkUp) left SERVER 3 to enter Check Up 
+11635.95: Load 162 (L_checkUp) left SERVER 2 to enter Check Up 
+11674.81: Load 165 (L_checkUp) left SERVER 3 to enter Check Up 
+11685.51: Load 157 (L_checkUp) left SERVER 1 to enter Check Up 
+12012.74: Load 168 (L_checkUp) left SERVER 3 to enter Check Up 
+12071.26: Load 167 (L_checkUp) left SERVER 1 to enter Check Up 
+12317.09: Load 164 (L_checkUp) left SERVER 2 to enter Check Up 
+12533.93: Load 169 (L_checkUp) left SERVER 2 to enter Check Up 
+12584.06: Load 170 (L_checkUp) left SERVER 3 to enter Check Up 
+12622.45: Load 171 (L_checkUp) left SERVER 1 to enter Check Up 
+14400.00: End of run.

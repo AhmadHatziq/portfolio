@@ -1,0 +1,7 @@
+VERSION 14.0.0.14
+UNITS Feet Seconds
+RNSET 1
+DRAWPOS minx -125 maxx 125 miny -60 maxy 60 minz -10 maxz 10 trx 0 try 0
+PROCSYS name basecase~
+	SYSPOS endx 1
+CONTROL snaplen 4 Hours counts 1 autorep

@@ -1,0 +1,9 @@
+Processing build commands for the model basecase...
+basecase~model.c
+basecase~init1.c
+logic.c
+Linking basecase64.dll...
+   Creating library basecase64.lib and object basecase64.exp
+Generating basecase.exe...
+        1 file(s) copied.
+
