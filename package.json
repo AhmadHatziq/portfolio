@@ -1,8 +1,8 @@
 {
   "private": true,
-  "name": "masterPortfolio",
+  "name": "Portfolio",
   "version": "0.1.0",
-  "homepage": ".",
+  "homepage": "http://AhmadHatziq.github.io/portfolio",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
