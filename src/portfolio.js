@@ -20,7 +20,7 @@ const seo = {
 //Home Page
 const greeting = {
   title: "Hatziq",
-  logo_name: "fuck you",
+  logo_name: "Ahmad Hatziq",
   nickname: "",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
@@ -395,30 +395,55 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Indian Institute of Information Technology Kurnool",
-      subtitle: "B.Tech. in Computer Engineering",
-      logo_path: "iiitk_logo.png",
-      alt_name: "IIITDM Kurnool",
-      duration: "2016 - 2020",
+      title: "National University of Singapore (NUS)",
+      subtitle:
+        "B.Eng in Systems Engineering, Minors in Coputer Science & Statistics",
+      logo_path: "nus_logo.png",
+      alt_name: "NUS ISE",
+      duration: "2016 July - 2020 May",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        "⚡ I majored in Industrial & Systems Engineering, learning concepts such as Supply Chain, Optimization, Operations Research, Simulation",
+        "⚡ Due to the overlapping nature of Systems Engineering, I was exposed to Computing Concepts such as Databases, Networking, Cybersecurity etc",
+        "⚡ I further pursued my interests in Techology and Data, growing as a Data Engineering intern and Software Development (Java) for my capstone",
       ],
-      website_link: "http://iiitk.ac.in",
+      website_link: "https://www.nus.edu.sg/",
     },
     {
-      title: "Indiana University Bloomington",
-      subtitle: "M.S. in Computer Science",
-      logo_path: "iu_logo.png",
-      alt_name: "Indiana University Bloomington",
-      duration: "2021 - 2023",
+      title: "National University of Singapore (NUS)",
+      subtitle: "M.Sc. in Statistics",
+      logo_path: "nus_logo.png",
+      alt_name: "NUS Msc Stats",
+      duration: "2020 July - 2021 May",
       descriptions: [
-        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
-        "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
-        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
+        "⚡ I have taken variety of courses related to Data Science & Statistics, such as Machine Learning, Spatial Statistics, Stochastic Processes etc",
+        "⚡ Apart from this, I supplemented my studies with online coursework on NLP, Data Engineering, Artificial Intelligence etc",
       ],
-      website_link: "https://www.indiana.edu/",
+      website_link: "https://www.nus.edu.sg/",
+    },
+    {
+      title: "Singapore University of Techology & Design (SUTD)",
+      subtitle: "Graduate Diploma in Cybersecurity",
+      logo_path: "sutd_logo.png",
+      alt_name: "SUTD",
+      duration: "2021 July - 2021 Oct",
+      descriptions: [
+        "⚡ Took cybersecurity coursework such as Cybersecurity Tools, Digital Forensics, Systems Security, Computer Networks",
+        "⚡ Deepened exposure to cybersecurity core areas",
+      ],
+      website_link:
+        "https://www.sutd.edu.sg/course/modularmaster-certificate-in-cybersecurity/",
+    },
+    {
+      title: "WorldQuant University",
+      subtitle: "M.Sc. Financial Engineering",
+      logo_path: "world-quant-logo.png",
+      alt_name: "WQ MFE",
+      duration: "2024 Oct - Ongoing",
+      descriptions: [
+        "⚡ Covers financial concepts such as Derivatives Trading, Options, Deep Learning in Finance etc.",
+        "⚡ Gaining a deeper understanding of Finance concepts",
+      ],
+      website_link: "https://www.wqu.edu/mscfe",
     },
   ],
 };
@@ -427,7 +452,7 @@ const certifications = {
   certifications: [
     {
       title: "Machine Learning",
-      subtitle: "- Andrew Ng",
+      subtitle: "",
       logo_path: "stanford_logo.png",
       certificate_link:
         "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
