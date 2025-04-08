@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Hatziq's Portfolio",
     type: "website",
-    url: "http://ahmadhatziq.github.io/home",
+    url: "https://ahmadhatziq.github.io/portfolio/",
   },
 };
 
@@ -440,7 +440,7 @@ const degrees = {
       alt_name: "WQ MFE",
       duration: "2024 Oct - Ongoing",
       descriptions: [
-        "⚡ Covers financial concepts such as Derivatives Trading, Options, Deep Learning in Finance etc.",
+        "⚡ Covers financial concepts such as Derivatives, Options Trading, Deep Learning in Finance, Time Series (GARCH) etc.",
         "⚡ Gaining a deeper understanding of Finance concepts",
       ],
       website_link: "https://www.wqu.edu/mscfe",
