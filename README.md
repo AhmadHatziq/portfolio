@@ -12,6 +12,8 @@ How to deploy to GitHub pages:
 - `git push` => To sync /docs file to GitHub repo
 - Github pages is configured to load static files in the `/docs` directory
 
+Accessible at: https://ahmadhatziq.github.io/home
+
 Credits:
 
 - https://github.com/ashutosh1919/masterPortfolio
