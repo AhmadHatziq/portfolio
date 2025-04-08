@@ -8,7 +8,8 @@ How to develop & test locally:
 How to deploy to GitHub pages:
 
 - `npm run build` => To generate build folder in '/build'
-- `cp -r /build /docs` => to move build files to '/docs'
+- `cp -r build/ docs/` => to move build files to '/docs'
+- `git push` => To sync /docs file to GitHub repo
 - Github pages is configured to load static files in the `/docs` directory
 
 Credits:
