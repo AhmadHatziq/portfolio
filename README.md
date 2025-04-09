@@ -11,6 +11,8 @@ How to deploy to GitHub pages:
 - Building node files and pushing to `gh-pages` branch occurs in-memory
 - Github pages is configured to load static files in the `root` directory of the branch `gh-pages`
 
+Color picker: Use Google's color picker, google `hex color picker`
+
 Accessible at: https://ahmadhatziq.github.io/portfolio/
 
 Credits:
