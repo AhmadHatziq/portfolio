@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f04d610fc2b02097dc1c1e33f78d7e1d",
+    "revision": "40a03e10c9f4cd9094de3fbaa0a31214",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "5bd92e538ba0ab454b9c",
+    "revision": "91e18518c34d1a2b116e",
     "url": "/portfolio/static/css/main.64b26388.chunk.css"
   },
   {
-    "revision": "29a2a77b03caf664478c",
-    "url": "/portfolio/static/js/2.3d9ca046.chunk.js"
+    "revision": "a1c751114aa98c8be05e",
+    "url": "/portfolio/static/js/2.a383f071.chunk.js"
   },
   {
-    "revision": "5bd92e538ba0ab454b9c",
-    "url": "/portfolio/static/js/main.f74ed43f.chunk.js"
+    "revision": "91e18518c34d1a2b116e",
+    "url": "/portfolio/static/js/main.4a360702.chunk.js"
   },
   {
     "revision": "1d47b31c794f99caf0b5",
@@ -62,6 +62,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "43707d5ba6266f11c6d8e65d05a5816e",
     "url": "/portfolio/static/media/algoexpert_logo.43707d5b.png"
+  },
+  {
+    "revision": "2cffb00a085fc6ab510c798e7dd65d14",
+    "url": "/portfolio/static/media/amplify_health_logo.2cffb00a.avif"
   },
   {
     "revision": "eaf02c2d0158b6b4b8c2a0a0cf830a04",
@@ -126,6 +130,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5f915405511f649dad433a6db9adbff4",
     "url": "/portfolio/static/media/contactMail.5f915405.png"
+  },
+  {
+    "revision": "351b0a36d16b564890c5a576fb750176",
+    "url": "/portfolio/static/media/csa_logo.351b0a36.jpg"
   },
   {
     "revision": "ebf35d7f33ebbd4a4c6cff7e66e21fdb",
@@ -276,6 +284,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/manOnTable.83ac24fb.svg"
   },
   {
+    "revision": "4952b8f82ca484620d982601d03dd4bb",
+    "url": "/portfolio/static/media/mas_logo.4952b8f8.jpg"
+  },
+  {
+    "revision": "9e29b6f86b6c6357dfa3a0452effd7d4",
+    "url": "/portfolio/static/media/mas_logo.9e29b6f8.webp"
+  },
+  {
+    "revision": "b450a9e119a56fe99e433d2d254b20f0",
+    "url": "/portfolio/static/media/mom_logo.b450a9e1.png"
+  },
+  {
     "revision": "069938a84edd6ebf383c318e9feb5d4c",
     "url": "/portfolio/static/media/muffito_logo.069938a8.png"
   },
@@ -314,6 +334,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "71408db71465afd742233e4a96f06526",
     "url": "/portfolio/static/media/pwa.71408db7.png"
+  },
+  {
+    "revision": "7eefca9873d351c590c195f8f99fd355",
+    "url": "/portfolio/static/media/spf_logo.7eefca98.png"
   },
   {
     "revision": "2c497738be3831492aeb6bdc43f19154",
