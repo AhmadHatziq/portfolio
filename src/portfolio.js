@@ -825,7 +825,7 @@ const experience = {
           title: "Machine Learning Engineer",
           company: "TikTok Inc.",
           company_url: "https://www.tiktok.com/en/",
-          logo_path: "tiktok_logo.png",
+          logo_path: "mas_logo.jpg",
           duration: "June 2023 - Present",
           location: "San Jose, CA, USA",
           description:
