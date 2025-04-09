@@ -406,7 +406,8 @@ const degrees = {
         "⚡ Due to the overlapping nature of Systems Engineering, I was exposed to Computing Concepts such as Databases, Networking, Cybersecurity etc",
         "⚡ I further pursued my interests in Techology and Data, growing as a Data Engineering intern and Software Development (Java) for my capstone",
       ],
-      website_link: "https://www.nus.edu.sg/",
+      website_link:
+        "https://drive.google.com/file/d/1qqNVNAuG7a_oaXCHRhRmeG30JRdbYh5a/view",
     },
     {
       title: "National University of Singapore (NUS)",
@@ -418,7 +419,8 @@ const degrees = {
         "⚡ I have taken variety of courses related to Data Science & Statistics, such as Machine Learning, Spatial Statistics, Stochastic Processes etc",
         "⚡ Apart from this, I supplemented my studies with online coursework on NLP, Data Engineering, Artificial Intelligence etc",
       ],
-      website_link: "https://www.nus.edu.sg/",
+      website_link:
+        "https://drive.google.com/file/d/1r1IjpvcoeavG88rT6FGs0PjONHVcrPwt",
     },
     {
       title: "Singapore University of Techology & Design (SUTD)",
@@ -431,7 +433,7 @@ const degrees = {
         "⚡ Deepened exposure to cybersecurity core areas",
       ],
       website_link:
-        "https://www.sutd.edu.sg/course/modularmaster-certificate-in-cybersecurity/",
+        "https://drive.google.com/file/d/1UNnqm_lkg1q1KjspfynPxJfRd0mmr3yn/view?usp=drive_link",
     },
     {
       title: "WorldQuant University",
@@ -443,7 +445,8 @@ const degrees = {
         "⚡ Covers financial concepts such as Derivatives, Options Trading, Deep Learning in Finance, Time Series (GARCH) etc.",
         "⚡ Gaining a deeper understanding of Finance concepts",
       ],
-      website_link: "https://www.wqu.edu/mscfe",
+      website_link:
+        "https://drive.google.com/file/d/1DHGF1BYhu7_Ga-VruDW4Xg2njvM41zTo/view?usp=drive_link",
     },
   ],
 };
