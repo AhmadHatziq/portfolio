@@ -397,7 +397,7 @@ const degrees = {
     {
       title: "National University of Singapore (NUS)",
       subtitle:
-        "B.Eng in Systems Engineering, Minors in Coputer Science & Statistics",
+        "B.Eng in Systems Engineering, Minors in Computer Science & Statistics",
       logo_path: "nus_logo.png",
       alt_name: "NUS ISE",
       duration: "2016 July - 2020 May",
