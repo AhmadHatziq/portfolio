@@ -1,21 +1,31 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.64b26388.chunk.css",
-    "main.js": "/portfolio/static/js/main.b54fe0d8.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.b54fe0d8.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.d077242f.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.d077242f.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.5a6c37cd.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.5a6c37cd.js.map",
-    "static/js/2.1cb3d915.chunk.js": "/portfolio/static/js/2.1cb3d915.chunk.js",
-    "static/js/2.1cb3d915.chunk.js.map": "/portfolio/static/js/2.1cb3d915.chunk.js.map",
+    "static/js/2.c188dee2.chunk.js": "/portfolio/static/js/2.c188dee2.chunk.js",
+    "static/js/2.c188dee2.chunk.js.map": "/portfolio/static/js/2.c188dee2.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.df50d034b53e2a8eab0805df31d377a6.js": "/portfolio/precache-manifest.df50d034b53e2a8eab0805df31d377a6.js",
+    "precache-manifest.4ebac240f5f80f1eb7c0906258c114b7.js": "/portfolio/precache-manifest.4ebac240f5f80f1eb7c0906258c114b7.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.64b26388.chunk.css.map": "/portfolio/static/css/main.64b26388.chunk.css.map",
     "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "/portfolio/static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "/portfolio/static/media/animated_ashutosh.eaf02c2d.png",
     "static/media/animated_logo.svg": "/portfolio/static/media/animated_logo.dcd6dee2.svg",
+    "static/media/aws_saa.png": "/portfolio/static/media/aws_saa.32b22e4c.png",
+    "static/media/aws_security_spec.png": "/portfolio/static/media/aws_security_spec.3ff3a667.png",
+    "static/media/azure_sc900_logo.png": "/portfolio/static/media/azure_sc900_logo.89c89e15.png",
     "static/media/blogs_image.svg": "/portfolio/static/media/blogs_image.058eca4c.svg",
+    "static/media/btl2_logo.png": "/portfolio/static/media/btl2_logo.329bc018.png",
+    "static/media/cisco_cyberops_logo.png": "/portfolio/static/media/cisco_cyberops_logo.3b2c5c66.png",
+    "static/media/cissp_logo.png": "/portfolio/static/media/cissp_logo.49026bf5.png",
+    "static/media/cka_logo.png": "/portfolio/static/media/cka_logo.f559e7c5.png",
+    "static/media/ckad_logo.png": "/portfolio/static/media/ckad_logo.09f90c9d.png",
+    "static/media/cks_logo.png": "/portfolio/static/media/cks_logo.b92f02fb.png",
+    "static/media/cloud_academy_logo.png": "/portfolio/static/media/cloud_academy_logo.65d42e12.png",
     "static/media/cloud_infrastructure.svg": "/portfolio/static/media/cloud_infrastructure.cacbc42b.svg",
     "static/media/codeInLogo.png": "/portfolio/static/media/codeInLogo.fee92c18.png",
     "static/media/contactMail.png": "/portfolio/static/media/contactMail.5f915405.png",
@@ -57,8 +67,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.5a6c37cd.js",
-    "static/js/2.1cb3d915.chunk.js",
+    "static/js/2.c188dee2.chunk.js",
     "static/css/main.64b26388.chunk.css",
-    "static/js/main.b54fe0d8.chunk.js"
+    "static/js/main.d077242f.chunk.js"
   ]
 }

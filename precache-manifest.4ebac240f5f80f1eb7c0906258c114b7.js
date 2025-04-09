@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "59f9dcc96046599a1578e81ddbb3d7e1",
+    "revision": "e3f589de49e0f3c63251f9dea442c12d",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "758a219bcbb6fa198e6c",
+    "revision": "9eed96ddeafe218eca3a",
     "url": "/portfolio/static/css/main.64b26388.chunk.css"
   },
   {
-    "revision": "40f5c5b7ae03c3630b29",
-    "url": "/portfolio/static/js/2.1cb3d915.chunk.js"
+    "revision": "78332588040583d93671",
+    "url": "/portfolio/static/js/2.c188dee2.chunk.js"
   },
   {
-    "revision": "758a219bcbb6fa198e6c",
-    "url": "/portfolio/static/js/main.b54fe0d8.chunk.js"
+    "revision": "9eed96ddeafe218eca3a",
+    "url": "/portfolio/static/js/main.d077242f.chunk.js"
   },
   {
     "revision": "1d47b31c794f99caf0b5",
@@ -64,8 +64,48 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/animated_logo.dcd6dee2.svg"
   },
   {
+    "revision": "32b22e4c20b3ca3735390c6f04e1f85c",
+    "url": "/portfolio/static/media/aws_saa.32b22e4c.png"
+  },
+  {
+    "revision": "3ff3a6676c686a275374a8283a707ed4",
+    "url": "/portfolio/static/media/aws_security_spec.3ff3a667.png"
+  },
+  {
+    "revision": "89c89e15c187b29ec636af27d9da4624",
+    "url": "/portfolio/static/media/azure_sc900_logo.89c89e15.png"
+  },
+  {
     "revision": "058eca4cbdc03a1dad9a6bb943ac7831",
     "url": "/portfolio/static/media/blogs_image.058eca4c.svg"
+  },
+  {
+    "revision": "329bc018eac3c74c38e8e1987e4580b0",
+    "url": "/portfolio/static/media/btl2_logo.329bc018.png"
+  },
+  {
+    "revision": "3b2c5c669bb331b9aaa9c8b4bfc115e5",
+    "url": "/portfolio/static/media/cisco_cyberops_logo.3b2c5c66.png"
+  },
+  {
+    "revision": "49026bf5c644e3a5098c4c4634886408",
+    "url": "/portfolio/static/media/cissp_logo.49026bf5.png"
+  },
+  {
+    "revision": "f559e7c53ca22dd5060ee2ba5d55087c",
+    "url": "/portfolio/static/media/cka_logo.f559e7c5.png"
+  },
+  {
+    "revision": "09f90c9df5bc1ffcf591bc53f14b5cd8",
+    "url": "/portfolio/static/media/ckad_logo.09f90c9d.png"
+  },
+  {
+    "revision": "b92f02fb52f6b5ad84e2b320655a234a",
+    "url": "/portfolio/static/media/cks_logo.b92f02fb.png"
+  },
+  {
+    "revision": "65d42e1243119426e9f235c22cdf06b9",
+    "url": "/portfolio/static/media/cloud_academy_logo.65d42e12.png"
   },
   {
     "revision": "cacbc42b661f39344af81c631d8d36a9",
