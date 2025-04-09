@@ -1,18 +1,20 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.64b26388.chunk.css",
-    "main.js": "/portfolio/static/js/main.d077242f.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.d077242f.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.2a21e82b.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.2a21e82b.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.5a6c37cd.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.5a6c37cd.js.map",
-    "static/js/2.c188dee2.chunk.js": "/portfolio/static/js/2.c188dee2.chunk.js",
-    "static/js/2.c188dee2.chunk.js.map": "/portfolio/static/js/2.c188dee2.chunk.js.map",
+    "static/js/2.6022309c.chunk.js": "/portfolio/static/js/2.6022309c.chunk.js",
+    "static/js/2.6022309c.chunk.js.map": "/portfolio/static/js/2.6022309c.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.4ebac240f5f80f1eb7c0906258c114b7.js": "/portfolio/precache-manifest.4ebac240f5f80f1eb7c0906258c114b7.js",
+    "precache-manifest.694e7db1758a66d6464879d80330ebb1.js": "/portfolio/precache-manifest.694e7db1758a66d6464879d80330ebb1.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.64b26388.chunk.css.map": "/portfolio/static/css/main.64b26388.chunk.css.map",
     "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "/portfolio/static/media/address_image.16559172.svg",
+    "static/media/ai_sg_logo.png": "/portfolio/static/media/ai_sg_logo.83c3c0dc.png",
+    "static/media/algoexpert_logo.png": "/portfolio/static/media/algoexpert_logo.43707d5b.png",
     "static/media/animated_ashutosh.png": "/portfolio/static/media/animated_ashutosh.eaf02c2d.png",
     "static/media/animated_logo.svg": "/portfolio/static/media/animated_logo.dcd6dee2.svg",
     "static/media/aws_saa.png": "/portfolio/static/media/aws_saa.32b22e4c.png",
@@ -34,6 +36,8 @@
     "static/media/developerActivity.svg": "/portfolio/static/media/developerActivity.3e23ca14.svg",
     "static/media/dsc_logo.png": "/portfolio/static/media/dsc_logo.63f707f2.png",
     "static/media/education.svg": "/portfolio/static/media/education.3bab7a9d.svg",
+    "static/media/educative_logo.png": "/portfolio/static/media/educative_logo.474f1ca4.png",
+    "static/media/edx_logo.svg": "/portfolio/static/media/edx_logo.91ae2411.svg",
     "static/media/experience.svg": "/portfolio/static/media/experience.a00ede3f.svg",
     "static/media/all.css": "/portfolio/static/media/fa-solid-900.8e4a6dcc.eot",
     "static/media/feelingProud.svg": "/portfolio/static/media/feelingProud.2936ce95.svg",
@@ -42,6 +46,7 @@
     "static/media/github_logo.png": "/portfolio/static/media/github_logo.6eeb2e81.png",
     "static/media/googleAssistant.jpg": "/portfolio/static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/googleAssistant.svg": "/portfolio/static/media/googleAssistant.a6addc3f.svg",
+    "static/media/harvardx_logo.webp": "/portfolio/static/media/harvardx_logo.3ccfdbfb.webp",
     "static/media/ibm_logo.png": "/portfolio/static/media/ibm_logo.d3fccbe1.png",
     "static/media/iiitk_logo.png": "/portfolio/static/media/iiitk_logo.571a8584.png",
     "static/media/intel_logo.jpg": "/portfolio/static/media/intel_logo.29152cf7.jpg",
@@ -52,6 +57,8 @@
     "static/media/muffito_logo.png": "/portfolio/static/media/muffito_logo.069938a8.png",
     "static/media/nptel_logo.png": "/portfolio/static/media/nptel_logo.95a12a2b.png",
     "static/media/nus_logo.png": "/portfolio/static/media/nus_logo.be2b894d.png",
+    "static/media/nus_logo_blue.svg": "/portfolio/static/media/nus_logo_blue.9c41209e.svg",
+    "static/media/nus_logo_plain.jpg": "/portfolio/static/media/nus_logo_plain.381833ba.jpg",
     "static/media/nus_logo_vertical.jpg": "/portfolio/static/media/nus_logo_vertical.a5ea317c.jpg",
     "static/media/portfolio.gif": "/portfolio/static/media/portfolio.414dfbd9.gif",
     "static/media/programmer.svg": "/portfolio/static/media/programmer.5faf790b.svg",
@@ -62,13 +69,17 @@
     "static/media/talksCardBack.svg": "/portfolio/static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "/portfolio/static/media/talksCardBackAlt.3fa54242.svg",
     "static/media/tiktok_logo.png": "/portfolio/static/media/tiktok_logo.0993e324.png",
+    "static/media/udacity_logo.png": "/portfolio/static/media/udacity_logo.6cd287c6.png",
+    "static/media/udemy_logo.svg": "/portfolio/static/media/udemy_logo.e17e3d09.svg",
     "static/media/ui_ux_design.svg": "/portfolio/static/media/ui_ux_design.d6363089.svg",
-    "static/media/world-quant-logo.png": "/portfolio/static/media/world-quant-logo.53fb1ee8.png"
+    "static/media/wiley_logo.jpg": "/portfolio/static/media/wiley_logo.cd51b13d.jpg",
+    "static/media/world-quant-logo.png": "/portfolio/static/media/world-quant-logo.53fb1ee8.png",
+    "static/media/wqu_foundations_logo.png": "/portfolio/static/media/wqu_foundations_logo.2428b18c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5a6c37cd.js",
-    "static/js/2.c188dee2.chunk.js",
+    "static/js/2.6022309c.chunk.js",
     "static/css/main.64b26388.chunk.css",
-    "static/js/main.d077242f.chunk.js"
+    "static/js/main.2a21e82b.chunk.js"
   ]
 }

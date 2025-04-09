@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e3f589de49e0f3c63251f9dea442c12d",
+    "revision": "fde0d91311433b9062a0872fcf593799",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "9eed96ddeafe218eca3a",
+    "revision": "69fcb99a4def218cbe62",
     "url": "/portfolio/static/css/main.64b26388.chunk.css"
   },
   {
-    "revision": "78332588040583d93671",
-    "url": "/portfolio/static/js/2.c188dee2.chunk.js"
+    "revision": "5fecc41b7536c659c4d5",
+    "url": "/portfolio/static/js/2.6022309c.chunk.js"
   },
   {
-    "revision": "9eed96ddeafe218eca3a",
-    "url": "/portfolio/static/js/main.d077242f.chunk.js"
+    "revision": "69fcb99a4def218cbe62",
+    "url": "/portfolio/static/js/main.2a21e82b.chunk.js"
   },
   {
     "revision": "1d47b31c794f99caf0b5",
@@ -54,6 +54,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "16559172ca1d4d552390b48f19e102ba",
     "url": "/portfolio/static/media/address_image.16559172.svg"
+  },
+  {
+    "revision": "83c3c0dc83163df42e5f6a067974937a",
+    "url": "/portfolio/static/media/ai_sg_logo.83c3c0dc.png"
+  },
+  {
+    "revision": "43707d5ba6266f11c6d8e65d05a5816e",
+    "url": "/portfolio/static/media/algoexpert_logo.43707d5b.png"
   },
   {
     "revision": "eaf02c2d0158b6b4b8c2a0a0cf830a04",
@@ -138,6 +146,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3bab7a9dc4324f1b2364d25a47fcfcf0",
     "url": "/portfolio/static/media/education.3bab7a9d.svg"
+  },
+  {
+    "revision": "474f1ca44f1f18499d3886136410e9bd",
+    "url": "/portfolio/static/media/educative_logo.474f1ca4.png"
+  },
+  {
+    "revision": "91ae2411058d83a9632d12a278d7392b",
+    "url": "/portfolio/static/media/edx_logo.91ae2411.svg"
   },
   {
     "revision": "a00ede3f70759480e81f14f203edaa51",
@@ -228,6 +244,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/googleAssistant.a6addc3f.svg"
   },
   {
+    "revision": "3ccfdbfbf4fd16de9447ae7d653cc74d",
+    "url": "/portfolio/static/media/harvardx_logo.3ccfdbfb.webp"
+  },
+  {
     "revision": "d3fccbe1db76b96f4f320d9c0f7da30c",
     "url": "/portfolio/static/media/ibm_logo.d3fccbe1.png"
   },
@@ -266,6 +286,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "be2b894d0e02bf986de0ae2d2fe1b770",
     "url": "/portfolio/static/media/nus_logo.be2b894d.png"
+  },
+  {
+    "revision": "9c41209eb61536c3e53d2b2cf0d9765e",
+    "url": "/portfolio/static/media/nus_logo_blue.9c41209e.svg"
+  },
+  {
+    "revision": "381833ba130b5b7dd5894febec1f88f6",
+    "url": "/portfolio/static/media/nus_logo_plain.381833ba.jpg"
   },
   {
     "revision": "a5ea317c2b9fb968d1048a305d04acc6",
@@ -308,11 +336,27 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/tiktok_logo.0993e324.png"
   },
   {
+    "revision": "6cd287c6eff53d735309ae7578508dbb",
+    "url": "/portfolio/static/media/udacity_logo.6cd287c6.png"
+  },
+  {
+    "revision": "e17e3d09818324c238e8be8143b1b3db",
+    "url": "/portfolio/static/media/udemy_logo.e17e3d09.svg"
+  },
+  {
     "revision": "d63630893eb8cb64af65f395d393c481",
     "url": "/portfolio/static/media/ui_ux_design.d6363089.svg"
   },
   {
+    "revision": "cd51b13df26cadc6b9a03fb0d3d9e740",
+    "url": "/portfolio/static/media/wiley_logo.cd51b13d.jpg"
+  },
+  {
     "revision": "53fb1ee83999b8d6a5dcb90c34ad1e1b",
     "url": "/portfolio/static/media/world-quant-logo.53fb1ee8.png"
+  },
+  {
+    "revision": "2428b18cdf4ff56c2521d5691f47dc05",
+    "url": "/portfolio/static/media/wqu_foundations_logo.2428b18c.png"
   }
 ]);
