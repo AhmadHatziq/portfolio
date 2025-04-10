@@ -8,8 +8,9 @@ const settings = {
 //SEO Related settings
 const seo = {
   title: "Hatziq's Portfolio",
-  description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+  description: `
+   A passionate individual who always thrives to work on impactful projects and solve technical challenges
+  `,
   og: {
     title: "Hatziq's Portfolio",
     type: "website",
@@ -22,10 +23,11 @@ const greeting = {
   title: "Hatziq",
   logo_name: "Ahmad Hatziq",
   nickname: "",
-  subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+  subTitle: `
+    A passionate individual who always thrives to work on impactful projects and solve technical challenges
+  `,
   resumeLink:
-    "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
+    "https://drive.google.com/file/d/108vbEJ6fdL-xYvTI6QfhtGOURvy7TETi/view?usp=sharing",
   portfolio_repository: "https://github.com/AhmadHatziq/portfolioo",
   githubProfile: "https://github.com/AhmadHatziq/",
 };
@@ -545,14 +547,24 @@ const certifications = {
       color_code: "#ffffff",
     },
     {
-      title: "CEH",
-      subtitle: "- EC Council",
-      logo_path: "ceh_logo.png",
+      title: "Web Development using React",
+      subtitle: "- NUS",
+      logo_path: "nus_logo_blue.svg",
       certificate_link:
-        "https://drive.google.com/file/d/1jcfKw51wJrdVmXxDnjooS_wnXCjOj3mk/view",
-      alt_name: "CEH",
-      color_code: "#000000",
+        "https://drive.google.com/file/d/1gsDrJ1D7l8DEzwCimyyIcufjCrJyl9KF/view",
+      alt_name: "",
+      color_code: "#003d7c",
     },
+    {
+      title: "Mobile App Development using React Native",
+      subtitle: "- NUS",
+      logo_path: "nus_logo_blue.svg",
+      certificate_link:
+        "https://drive.google.com/file/d/1gju4mZph-yUDmhazh1Ov0VHA-t9tvaYf/view",
+      alt_name: "",
+      color_code: "#003d7c",
+    },
+
     {
       title: "Foundations of Financial Engineering",
       subtitle: "- WorldQuant University",
@@ -635,40 +647,21 @@ const certifications = {
       color_code: "#F5F7FA",
     },
     {
-      title: "Kubernetes and Cloud Native Associate (KCNA)",
-      subtitle: "- Linux Foundation",
-      logo_path: "kcna_logo.png",
-      certificate_link:
-        "https://www.credly.com/badges/f3e8e2b6-1de9-41c1-b858-edbb2901ee28",
+      title: "Data Engineering",
+      subtitle: "- Udacity",
+      logo_path: "udacity_logo.png",
+      certificate_link: "https://www.udacity.com/certificate/HLPFXFGQ",
       alt_name: "",
-      color_code: "#F5F7FA",
+      color_code: "#2f3c45",
     },
     {
-      title: "Kubernetes and Cloud Native Security Associate (KCSA)",
-      subtitle: "- Linux Foundation",
-      logo_path: "kcsa_logo.png",
+      title: "DSE230x: Big Data Analytics Using Spark",
+      subtitle: "- edX (UC San Diego)",
+      logo_path: "edx_logo.svg",
       certificate_link:
-        "https://www.credly.com/badges/b644fb5e-3cc0-4e80-8f49-516dfa7c107b",
+        "https://courses.edx.org/certificates/7bbc27de20194f6e9ed7ed0061a71bc0",
       alt_name: "",
-      color_code: "#F5F7FA",
-    },
-    {
-      title: "Web Development using React",
-      subtitle: "- NUS",
-      logo_path: "nus_logo_blue.svg",
-      certificate_link:
-        "https://drive.google.com/file/d/1gsDrJ1D7l8DEzwCimyyIcufjCrJyl9KF/view",
-      alt_name: "",
-      color_code: "#003d7c",
-    },
-    {
-      title: "Mobile App Development using React Native",
-      subtitle: "- NUS",
-      logo_path: "nus_logo_blue.svg",
-      certificate_link:
-        "https://drive.google.com/file/d/1gju4mZph-yUDmhazh1Ov0VHA-t9tvaYf/view",
-      alt_name: "",
-      color_code: "#003d7c",
+      color_code: "#02262b",
     },
     {
       title: "Docker & Kubernetes: The Complete Guide",
@@ -741,31 +734,6 @@ const certifications = {
       color_code: "#2f3c45",
     },
     {
-      title: "Data Engineering",
-      subtitle: "- Udacity",
-      logo_path: "udacity_logo.png",
-      certificate_link: "https://www.udacity.com/certificate/HLPFXFGQ",
-      alt_name: "",
-      color_code: "#2f3c45",
-    },
-    {
-      title: "Deep Reinforcement Learning",
-      subtitle: "- Udacity",
-      logo_path: "udacity_logo.png",
-      certificate_link: "https://www.udacity.com/certificate/JPKGKNGF",
-      alt_name: "",
-      color_code: "#2f3c45",
-    },
-    {
-      title: "DSE230x: Big Data Analytics Using Spark",
-      subtitle: "- edX (UC San Diego)",
-      logo_path: "edx_logo.svg",
-      certificate_link:
-        "https://courses.edx.org/certificates/7bbc27de20194f6e9ed7ed0061a71bc0",
-      alt_name: "",
-      color_code: "#02262b",
-    },
-    {
       title: "STV1.3x: Formal Software Verification",
       subtitle: "- edX (University of Maryland)",
       logo_path: "edx_logo.svg",
@@ -800,6 +768,33 @@ const certifications = {
         "https://www.coursera.org/account/accomplishments/verify/VAVEMGBUBUHK",
       alt_name: "",
       color_code: "#2A73CC",
+    },
+    {
+      title: "Kubernetes and Cloud Native Associate (KCNA)",
+      subtitle: "- Linux Foundation",
+      logo_path: "kcna_logo.png",
+      certificate_link:
+        "https://www.credly.com/badges/f3e8e2b6-1de9-41c1-b858-edbb2901ee28",
+      alt_name: "",
+      color_code: "#F5F7FA",
+    },
+    {
+      title: "Kubernetes and Cloud Native Security Associate (KCSA)",
+      subtitle: "- Linux Foundation",
+      logo_path: "kcsa_logo.png",
+      certificate_link:
+        "https://www.credly.com/badges/b644fb5e-3cc0-4e80-8f49-516dfa7c107b",
+      alt_name: "",
+      color_code: "#F5F7FA",
+    },
+    {
+      title: "CEH",
+      subtitle: "- EC Council",
+      logo_path: "ceh_logo.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1jcfKw51wJrdVmXxDnjooS_wnXCjOj3mk/view",
+      alt_name: "CEH",
+      color_code: "#000000",
     },
     {
       title: "Microsoft Visual Basic for Applications (VBA)",
