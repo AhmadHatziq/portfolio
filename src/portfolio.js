@@ -526,6 +526,33 @@ const certifications = {
       color_code: "#F5F7FA",
     },
     {
+      title: "Kubernetes and Cloud Native Associate (KCNA)",
+      subtitle: "- Linux Foundation",
+      logo_path: "kcna_logo.png",
+      certificate_link:
+        "https://www.credly.com/badges/f3e8e2b6-1de9-41c1-b858-edbb2901ee28",
+      alt_name: "",
+      color_code: "#F5F7FA",
+    },
+    {
+      title: "Kubernetes and Cloud Native Security Associate (KCSA)",
+      subtitle: "- Linux Foundation",
+      logo_path: "kcsa_logo.png",
+      certificate_link:
+        "https://www.credly.com/badges/b644fb5e-3cc0-4e80-8f49-516dfa7c107b",
+      alt_name: "",
+      color_code: "#F5F7FA",
+    },
+    {
+      title: "Kubestronaut",
+      subtitle: "- Linux Foundation",
+      logo_path: "kubestronaut_logo.png",
+      certificate_link:
+        "https://www.credly.com/badges/f7a65dc4-44b4-4686-8eb0-5011cfb83f75",
+      alt_name: "",
+      color_code: "#F5F7FA",
+    },
+    {
       title: "Blue Team Level 2",
       subtitle: "- Security Blue Team",
       logo_path: "btl2_logo.png",
@@ -536,7 +563,7 @@ const certifications = {
     },
     {
       title: "Programming with Golang",
-      subtitle: "- Coursera, UC Irvine",
+      subtitle: "- Coursera (UC Irvine)",
       logo_path: "coursera_logo.png",
       certificate_link:
         "https://www.coursera.org/account/accomplishments/specialization/4GHV3983B4M3",
@@ -747,7 +774,7 @@ const certifications = {
     },
     {
       title: "Fundamentals of Engineering",
-      subtitle: "- Coursera, Goergia Tech",
+      subtitle: "- Coursera (Goergia Tech)",
       logo_path: "coursera_logo.png",
       certificate_link:
         "https://www.coursera.org/account/accomplishments/certificate/6DF2MN9PZNYT",
@@ -765,7 +792,7 @@ const certifications = {
     },
     {
       title: "Machine Learning",
-      subtitle: "- Coursera, Stanford",
+      subtitle: "- Coursera (Stanford)",
       logo_path: "coursera_logo.png",
       certificate_link:
         "https://www.coursera.org/account/accomplishments/verify/VAVEMGBUBUHK",
