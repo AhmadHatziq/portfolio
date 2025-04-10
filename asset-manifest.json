@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.64b26388.chunk.css",
-    "main.js": "/portfolio/static/js/main.cd33d9bb.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.cd33d9bb.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.7b1292bd.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.7b1292bd.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.5a6c37cd.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.5a6c37cd.js.map",
-    "static/js/2.209f3577.chunk.js": "/portfolio/static/js/2.209f3577.chunk.js",
-    "static/js/2.209f3577.chunk.js.map": "/portfolio/static/js/2.209f3577.chunk.js.map",
+    "static/js/2.beaaa8cc.chunk.js": "/portfolio/static/js/2.beaaa8cc.chunk.js",
+    "static/js/2.beaaa8cc.chunk.js.map": "/portfolio/static/js/2.beaaa8cc.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.c8723529be0d24613160122e69035746.js": "/portfolio/precache-manifest.c8723529be0d24613160122e69035746.js",
+    "precache-manifest.e7823aabb4fb883292322f4ed4eb18ba.js": "/portfolio/precache-manifest.e7823aabb4fb883292322f4ed4eb18ba.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.64b26388.chunk.css.map": "/portfolio/static/css/main.64b26388.chunk.css.map",
     "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
@@ -18,8 +18,6 @@
     "static/media/animated_ashutosh.png": "/portfolio/static/media/animated_ashutosh.eaf02c2d.png",
     "static/media/animated_logo.svg": "/portfolio/static/media/animated_logo.dcd6dee2.svg",
     "static/media/apd_logo.png": "/portfolio/static/media/apd_logo.0bf22493.png",
-    "static/media/apd_logo.jpg:Zone.Identifier": "/portfolio/static/media/apd_logo.jpg:Zone.d41d8cd9.Identifier",
-    "static/media/apd_logo.png:Zone.Identifier": "/portfolio/static/media/apd_logo.png:Zone.d41d8cd9.Identifier",
     "static/media/aws_saa.png": "/portfolio/static/media/aws_saa.32b22e4c.png",
     "static/media/aws_security_spec.png": "/portfolio/static/media/aws_security_spec.3ff3a667.png",
     "static/media/azure_sc900_logo.png": "/portfolio/static/media/azure_sc900_logo.89c89e15.png",
@@ -57,11 +55,8 @@
     "static/media/iu_logo.png": "/portfolio/static/media/iu_logo.60ed0bd3.png",
     "static/media/jsFramework.svg": "/portfolio/static/media/jsFramework.5b4a6449.svg",
     "static/media/kcna_logo.png": "/portfolio/static/media/kcna_logo.ec084c72.png",
-    "static/media/kcna_logo.png:Zone.Identifier": "/portfolio/static/media/kcna_logo.png:Zone.d41d8cd9.Identifier",
     "static/media/kcsa_logo.png": "/portfolio/static/media/kcsa_logo.b0a33a24.png",
-    "static/media/kcsa_logo.png:Zone.Identifier": "/portfolio/static/media/kcsa_logo.png:Zone.d41d8cd9.Identifier",
     "static/media/kubestronaut_logo.png": "/portfolio/static/media/kubestronaut_logo.3bab36d8.png",
-    "static/media/kubestronaut_logo.png:Zone.Identifier": "/portfolio/static/media/kubestronaut_logo.png:Zone.d41d8cd9.Identifier",
     "static/media/legato_logo.png": "/portfolio/static/media/legato_logo.c597fbde.png",
     "static/media/manOnTable.svg": "/portfolio/static/media/manOnTable.83ac24fb.svg",
     "static/media/mas_logo.jpg": "/portfolio/static/media/mas_logo.4952b8f8.jpg",
@@ -92,8 +87,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.5a6c37cd.js",
-    "static/js/2.209f3577.chunk.js",
+    "static/js/2.beaaa8cc.chunk.js",
     "static/css/main.64b26388.chunk.css",
-    "static/js/main.cd33d9bb.chunk.js"
+    "static/js/main.7b1292bd.chunk.js"
   ]
 }

@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fec62899f29c3c5a8da303f2fb3b9511",
+    "revision": "334d0472af2de70b4ea8a4e33a37091d",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "a49a5c2324f97e6b90e1",
+    "revision": "4b7fc76a01be7b7fcbe0",
     "url": "/portfolio/static/css/main.64b26388.chunk.css"
   },
   {
-    "revision": "ea50e8237da658a0ab4b",
-    "url": "/portfolio/static/js/2.209f3577.chunk.js"
+    "revision": "646f3415a2f67b340823",
+    "url": "/portfolio/static/js/2.beaaa8cc.chunk.js"
   },
   {
-    "revision": "a49a5c2324f97e6b90e1",
-    "url": "/portfolio/static/js/main.cd33d9bb.chunk.js"
+    "revision": "4b7fc76a01be7b7fcbe0",
+    "url": "/portfolio/static/js/main.7b1292bd.chunk.js"
   },
   {
     "revision": "1d47b31c794f99caf0b5",
@@ -74,14 +74,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0bf22493d4d63ea35e3363dac8abcf8c",
     "url": "/portfolio/static/media/apd_logo.0bf22493.png"
-  },
-  {
-    "revision": "d41d8cd98f00b204e9800998ecf8427e",
-    "url": "/portfolio/static/media/apd_logo.jpg:Zone.d41d8cd9.Identifier"
-  },
-  {
-    "revision": "d41d8cd98f00b204e9800998ecf8427e",
-    "url": "/portfolio/static/media/apd_logo.png:Zone.d41d8cd9.Identifier"
   },
   {
     "revision": "32b22e4c20b3ca3735390c6f04e1f85c",
@@ -288,24 +280,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/kcna_logo.ec084c72.png"
   },
   {
-    "revision": "d41d8cd98f00b204e9800998ecf8427e",
-    "url": "/portfolio/static/media/kcna_logo.png:Zone.d41d8cd9.Identifier"
-  },
-  {
     "revision": "b0a33a2466d1afe3b24ac8a7e8becf24",
     "url": "/portfolio/static/media/kcsa_logo.b0a33a24.png"
   },
   {
-    "revision": "d41d8cd98f00b204e9800998ecf8427e",
-    "url": "/portfolio/static/media/kcsa_logo.png:Zone.d41d8cd9.Identifier"
-  },
-  {
     "revision": "3bab36d8779a9c32fc60aafa65805284",
     "url": "/portfolio/static/media/kubestronaut_logo.3bab36d8.png"
-  },
-  {
-    "revision": "d41d8cd98f00b204e9800998ecf8427e",
-    "url": "/portfolio/static/media/kubestronaut_logo.png:Zone.d41d8cd9.Identifier"
   },
   {
     "revision": "c597fbded5de799dfb9abc3fc4f1c26f",
