@@ -463,6 +463,15 @@ const certifications = {
       color_code: "#edf5ef",
     },
     {
+      title: "Kubestronaut",
+      subtitle: "- Linux Foundation",
+      logo_path: "kubestronaut_logo.png",
+      certificate_link:
+        "https://www.credly.com/badges/f7a65dc4-44b4-4686-8eb0-5011cfb83f75",
+      alt_name: "",
+      color_code: "#F5F7FA",
+    },
+    {
       title: "Security Specialization",
       subtitle: "- AWS",
       logo_path: "aws_security_spec.png",
@@ -472,14 +481,15 @@ const certifications = {
       color_code: "#eb8423",
     },
     {
-      title: "Certified Kubernetes Security",
-      subtitle: "- Linux Foundation",
-      logo_path: "cks_logo.png",
+      title: "DevSecOps",
+      subtitle: "- Cloud Academy",
+      logo_path: "cloud_academy_logo.png",
       certificate_link:
-        "https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/806e41dd-f795-435f-a2a8-951c8c8b6ed8-ahmad-hatziq-bin-mohamad-ae18bde2-ceb5-41e0-9a12-0c97de3c1cdf-certificate.pdf",
-      alt_name: "CKS",
-      color_code: "#ffffff",
+        "https://certificates.platform.qa.com/e91ec5c80ceb31549422c190f0e0b90d97bc2454.pdf",
+      alt_name: "DevSecOps",
+      color_code: "#005eec",
     },
+
     {
       title: "Solutions Architect (Associate)",
       subtitle: "- AWS",
@@ -488,15 +498,6 @@ const certifications = {
         "https://www.credly.com/badges/03b05a5a-5ab9-4ce1-bb1b-c05459ad1947/public_url",
       alt_name: "AWS SAA",
       color_code: "#eb8423",
-    },
-    {
-      title: "Certified Kubernetes Administrator",
-      subtitle: "- Linux Foundation",
-      logo_path: "cka_logo.png",
-      certificate_link:
-        "https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/806e41dd-f795-435f-a2a8-951c8c8b6ed8-ahmad-hatziq-bin-mohamad-ef46f198-dee3-4f24-ad68-aabe0604661e-certificate.pdf",
-      alt_name: "CKA",
-      color_code: "#F5F7FA",
     },
     {
       title: "SC-900: Security, Compliance, Identity Fundamentals",
@@ -508,51 +509,6 @@ const certifications = {
       color_code: "#1F70C199",
     },
     {
-      title: "DevSecOps",
-      subtitle: "- Cloud Academy",
-      logo_path: "cloud_academy_logo.png",
-      certificate_link:
-        "https://certificates.platform.qa.com/e91ec5c80ceb31549422c190f0e0b90d97bc2454.pdf",
-      alt_name: "DevSecOps",
-      color_code: "#005eec",
-    },
-    {
-      title: "Certified Kubernetes Application Developer",
-      subtitle: "- Linux Foundation",
-      logo_path: "ckad_logo.png",
-      certificate_link:
-        "https://www.credly.com/badges/1ce63c34-0e6f-478e-a196-32c5e2e3c283",
-      alt_name: "CKA",
-      color_code: "#F5F7FA",
-    },
-    {
-      title: "Kubernetes and Cloud Native Associate (KCNA)",
-      subtitle: "- Linux Foundation",
-      logo_path: "kcna_logo.png",
-      certificate_link:
-        "https://www.credly.com/badges/f3e8e2b6-1de9-41c1-b858-edbb2901ee28",
-      alt_name: "",
-      color_code: "#F5F7FA",
-    },
-    {
-      title: "Kubernetes and Cloud Native Security Associate (KCSA)",
-      subtitle: "- Linux Foundation",
-      logo_path: "kcsa_logo.png",
-      certificate_link:
-        "https://www.credly.com/badges/b644fb5e-3cc0-4e80-8f49-516dfa7c107b",
-      alt_name: "",
-      color_code: "#F5F7FA",
-    },
-    {
-      title: "Kubestronaut",
-      subtitle: "- Linux Foundation",
-      logo_path: "kubestronaut_logo.png",
-      certificate_link:
-        "https://www.credly.com/badges/f7a65dc4-44b4-4686-8eb0-5011cfb83f75",
-      alt_name: "",
-      color_code: "#F5F7FA",
-    },
-    {
       title: "Blue Team Level 2",
       subtitle: "- Security Blue Team",
       logo_path: "btl2_logo.png",
@@ -562,13 +518,22 @@ const certifications = {
       color_code: "#00000099",
     },
     {
-      title: "Programming with Golang",
+      title: "Golang Specialization",
       subtitle: "- Coursera (UC Irvine)",
       logo_path: "coursera_logo.png",
       certificate_link:
         "https://www.coursera.org/account/accomplishments/specialization/4GHV3983B4M3",
       alt_name: "Coursera Golang",
       color_code: "#2A73CC",
+    },
+    {
+      title: "Professional Certificate in Web Programming",
+      subtitle: "- HarvardX (edX)",
+      logo_path: "edx_logo.svg",
+      certificate_link:
+        "https://credentials.edx.org/credentials/e2496a072f1c441b8ddf4edccd2bf0ae/",
+      alt_name: "",
+      color_code: "#02262b",
     },
     {
       title: "Cybersecurity Operations (Associate)",
@@ -643,6 +608,51 @@ const certifications = {
       color_code: "#ffffff",
     },
     {
+      title: "Certified Kubernetes Security",
+      subtitle: "- Linux Foundation",
+      logo_path: "cks_logo.png",
+      certificate_link:
+        "https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/806e41dd-f795-435f-a2a8-951c8c8b6ed8-ahmad-hatziq-bin-mohamad-ae18bde2-ceb5-41e0-9a12-0c97de3c1cdf-certificate.pdf",
+      alt_name: "CKS",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Certified Kubernetes Administrator",
+      subtitle: "- Linux Foundation",
+      logo_path: "cka_logo.png",
+      certificate_link:
+        "https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/806e41dd-f795-435f-a2a8-951c8c8b6ed8-ahmad-hatziq-bin-mohamad-ef46f198-dee3-4f24-ad68-aabe0604661e-certificate.pdf",
+      alt_name: "CKA",
+      color_code: "#F5F7FA",
+    },
+    {
+      title: "Certified Kubernetes Application Developer",
+      subtitle: "- Linux Foundation",
+      logo_path: "ckad_logo.png",
+      certificate_link:
+        "https://www.credly.com/badges/1ce63c34-0e6f-478e-a196-32c5e2e3c283",
+      alt_name: "CKA",
+      color_code: "#F5F7FA",
+    },
+    {
+      title: "Kubernetes and Cloud Native Associate (KCNA)",
+      subtitle: "- Linux Foundation",
+      logo_path: "kcna_logo.png",
+      certificate_link:
+        "https://www.credly.com/badges/f3e8e2b6-1de9-41c1-b858-edbb2901ee28",
+      alt_name: "",
+      color_code: "#F5F7FA",
+    },
+    {
+      title: "Kubernetes and Cloud Native Security Associate (KCSA)",
+      subtitle: "- Linux Foundation",
+      logo_path: "kcsa_logo.png",
+      certificate_link:
+        "https://www.credly.com/badges/b644fb5e-3cc0-4e80-8f49-516dfa7c107b",
+      alt_name: "",
+      color_code: "#F5F7FA",
+    },
+    {
       title: "Web Development using React",
       subtitle: "- NUS",
       logo_path: "nus_logo_blue.svg",
@@ -687,15 +697,7 @@ const certifications = {
       alt_name: "",
       color_code: "#000000",
     },
-    {
-      title: "Professional Certificate in Web Programming",
-      subtitle: "- HarvardX (edX)",
-      logo_path: "edx_logo.svg",
-      certificate_link:
-        "https://credentials.edx.org/credentials/e2496a072f1c441b8ddf4edccd2bf0ae/",
-      alt_name: "",
-      color_code: "#02262b",
-    },
+
     {
       title: "Professional Certificate in Public Policy & Administration",
       subtitle: "- NUS",
