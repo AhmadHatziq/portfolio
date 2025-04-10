@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "334d0472af2de70b4ea8a4e33a37091d",
+    "revision": "9297e2de9e2143cec8451df75df86fdc",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "4b7fc76a01be7b7fcbe0",
-    "url": "/portfolio/static/css/main.64b26388.chunk.css"
+    "revision": "fec13c319e5431120d07",
+    "url": "/portfolio/static/css/main.e29d84e0.chunk.css"
   },
   {
-    "revision": "646f3415a2f67b340823",
-    "url": "/portfolio/static/js/2.beaaa8cc.chunk.js"
+    "revision": "b6814ad67fcb4161a662",
+    "url": "/portfolio/static/js/2.8240be3e.chunk.js"
   },
   {
-    "revision": "4b7fc76a01be7b7fcbe0",
-    "url": "/portfolio/static/js/main.7b1292bd.chunk.js"
+    "revision": "fec13c319e5431120d07",
+    "url": "/portfolio/static/js/main.c1d33785.chunk.js"
   },
   {
     "revision": "1d47b31c794f99caf0b5",
@@ -62,6 +62,30 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "43707d5ba6266f11c6d8e65d05a5816e",
     "url": "/portfolio/static/media/algoexpert_logo.43707d5b.png"
+  },
+  {
+    "revision": "5725cc57107eae836d37b2b37f22a772",
+    "url": "/portfolio/static/media/analytics_1.5725cc57.png"
+  },
+  {
+    "revision": "4c1b79e1eb489a32e726d48795fcdf91",
+    "url": "/portfolio/static/media/analytics_1.png:Zone.4c1b79e1.Identifier"
+  },
+  {
+    "revision": "a5fbbf640839e5558afe4a185a6ad8d4",
+    "url": "/portfolio/static/media/analytics_1.svg:Zone.a5fbbf64.Identifier"
+  },
+  {
+    "revision": "c7db0a55e139f91211c4d6521e70d17e",
+    "url": "/portfolio/static/media/analytics_2.c7db0a55.png"
+  },
+  {
+    "revision": "4c1b79e1eb489a32e726d48795fcdf91",
+    "url": "/portfolio/static/media/analytics_2.png:Zone.4c1b79e1.Identifier"
+  },
+  {
+    "revision": "809867694b2efc9a6a405798474bb8df",
+    "url": "/portfolio/static/media/analytics_2.svg:Zone.80986769.Identifier"
   },
   {
     "revision": "eaf02c2d0158b6b4b8c2a0a0cf830a04",
@@ -146,6 +170,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3e23ca14e7a7c8a7b63d255466749000",
     "url": "/portfolio/static/media/developerActivity.3e23ca14.svg"
+  },
+  {
+    "revision": "9dc985b1836002c65995c17e7daf1d30",
+    "url": "/portfolio/static/media/devsecops_1.9dc985b1.png"
+  },
+  {
+    "revision": "f4ea4fb36f4442a7dcedd4d33b76a02a",
+    "url": "/portfolio/static/media/devsecops_1.f4ea4fb3.svg"
+  },
+  {
+    "revision": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "/portfolio/static/media/devsecops_1.png:Zone.d41d8cd9.Identifier"
+  },
+  {
+    "revision": "2d34c578790bc13a56a16f6b7d993acf",
+    "url": "/portfolio/static/media/devsecops_1.svg:Zone.2d34c578.Identifier"
   },
   {
     "revision": "63f707f224c8a842ac928c36e3be879a",
