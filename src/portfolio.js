@@ -841,7 +841,7 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Work, Internship and Volunteership",
+  subtitle: "Work",
   description:
     "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
   header_image_path: "experience.svg",
@@ -896,6 +896,7 @@ const experience = {
         },
       ],
     },
+    /*
     {
       title: "Internships",
       experiences: [
@@ -934,7 +935,8 @@ const experience = {
           color: "#0071C5",
         },
       ],
-    },
+    }, */
+    /*
     {
       title: "Volunteerships",
       experiences: [
@@ -995,7 +997,7 @@ const experience = {
           color: "#181717",
         },
       ],
-    },
+    }, */
   ],
 };
 
