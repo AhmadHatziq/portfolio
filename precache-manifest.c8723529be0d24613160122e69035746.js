@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "40a03e10c9f4cd9094de3fbaa0a31214",
+    "revision": "fec62899f29c3c5a8da303f2fb3b9511",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "91e18518c34d1a2b116e",
+    "revision": "a49a5c2324f97e6b90e1",
     "url": "/portfolio/static/css/main.64b26388.chunk.css"
   },
   {
-    "revision": "a1c751114aa98c8be05e",
-    "url": "/portfolio/static/js/2.a383f071.chunk.js"
+    "revision": "ea50e8237da658a0ab4b",
+    "url": "/portfolio/static/js/2.209f3577.chunk.js"
   },
   {
-    "revision": "91e18518c34d1a2b116e",
-    "url": "/portfolio/static/js/main.4a360702.chunk.js"
+    "revision": "a49a5c2324f97e6b90e1",
+    "url": "/portfolio/static/js/main.cd33d9bb.chunk.js"
   },
   {
     "revision": "1d47b31c794f99caf0b5",
@@ -64,16 +64,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/algoexpert_logo.43707d5b.png"
   },
   {
-    "revision": "2cffb00a085fc6ab510c798e7dd65d14",
-    "url": "/portfolio/static/media/amplify_health_logo.2cffb00a.avif"
-  },
-  {
     "revision": "eaf02c2d0158b6b4b8c2a0a0cf830a04",
     "url": "/portfolio/static/media/animated_ashutosh.eaf02c2d.png"
   },
   {
     "revision": "dcd6dee2bd7458a4a576dc131506fd83",
     "url": "/portfolio/static/media/animated_logo.dcd6dee2.svg"
+  },
+  {
+    "revision": "0bf22493d4d63ea35e3363dac8abcf8c",
+    "url": "/portfolio/static/media/apd_logo.0bf22493.png"
+  },
+  {
+    "revision": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "/portfolio/static/media/apd_logo.jpg:Zone.d41d8cd9.Identifier"
+  },
+  {
+    "revision": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "/portfolio/static/media/apd_logo.png:Zone.d41d8cd9.Identifier"
   },
   {
     "revision": "32b22e4c20b3ca3735390c6f04e1f85c",
@@ -274,6 +282,30 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5b4a6449747ec61a6d9aa874f2a9ceba",
     "url": "/portfolio/static/media/jsFramework.5b4a6449.svg"
+  },
+  {
+    "revision": "ec084c722e8e597fbc0cc5441b294865",
+    "url": "/portfolio/static/media/kcna_logo.ec084c72.png"
+  },
+  {
+    "revision": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "/portfolio/static/media/kcna_logo.png:Zone.d41d8cd9.Identifier"
+  },
+  {
+    "revision": "b0a33a2466d1afe3b24ac8a7e8becf24",
+    "url": "/portfolio/static/media/kcsa_logo.b0a33a24.png"
+  },
+  {
+    "revision": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "/portfolio/static/media/kcsa_logo.png:Zone.d41d8cd9.Identifier"
+  },
+  {
+    "revision": "3bab36d8779a9c32fc60aafa65805284",
+    "url": "/portfolio/static/media/kubestronaut_logo.3bab36d8.png"
+  },
+  {
+    "revision": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "/portfolio/static/media/kubestronaut_logo.png:Zone.d41d8cd9.Identifier"
   },
   {
     "revision": "c597fbded5de799dfb9abc3fc4f1c26f",
