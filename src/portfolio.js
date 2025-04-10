@@ -66,7 +66,7 @@ const skills = {
   data: [
     {
       title: "Back-End & Software Engineering",
-      fileName: "DataScienceImg",
+      fileName: "firstSkill",
       skills: [
         "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
         "⚡ Experience of working with Computer Vision and NLP projects",
@@ -111,7 +111,7 @@ const skills = {
     },
     {
       title: "DevOps, DevSecOps & SRE",
-      fileName: "FullStackImg",
+      fileName: "secondSkill",
       skills: [
         "⚡ Building responsive website front end using React-Redux",
         "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
@@ -193,7 +193,7 @@ const skills = {
     },
     {
       title: "Cybersecurity & Security Architecture",
-      fileName: "CloudInfraImg",
+      fileName: "thirdSkill",
       skills: [
         "⚡ Experience working on multiple cloud platforms",
         "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
@@ -261,7 +261,7 @@ const skills = {
     },
     {
       title: "Data Science, ML & Analytics",
-      fileName: "DesignImg",
+      fileName: "fourthSkill",
       skills: [
         "⚡ Designing highly attractive user interface for mobile and web applications",
         "⚡ Customizing logo designs and building logos from scratch",
@@ -300,7 +300,7 @@ const skills = {
     },
     {
       title: "Full Stack Development",
-      fileName: "DesignImg",
+      fileName: "fifthSkill",
       skills: [
         "⚡ Designing highly attractive user interface for mobile and web applications",
         "⚡ Customizing logo designs and building logos from scratch",

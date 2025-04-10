@@ -7,14 +7,24 @@ import DataScienceImg from "./DataScienceImg";
 import FullStackImg from "./FullStackImg";
 import CloudInfraImg from "./CloudInfraImg";
 import DesignImg from "./DesignImg";
+import ProgrammerImg from "./ProgrammerImg";
+import DevSecSREImg from "./DevSecSREImg";
+import MachineLearningImg from "./MachineLearningImg";
 
 function GetSkillSvg(props) {
-  if (props.fileName === "DataScienceImg")
-    return <DataScienceImg theme={props.theme} />;
-  else if (props.fileName === "FullStackImg")
-    return <FullStackImg theme={props.theme} />;
-  else if (props.fileName === "CloudInfraImg")
+  if (props.fileName === "firstSkill")
+    // First image
+    // return <DataScienceImg theme={props.theme} />;
+    return <ProgrammerImg theme={props.theme} />;
+  else if (props.fileName === "secondSkill")
+    // return <FullStackImg theme={props.theme} />;
+    return <DevSecSREImg theme={props.theme} />;
+  else if (props.fileName === "thirdSkill")
     return <CloudInfraImg theme={props.theme} />;
+  else if (props.fileName === "fourthSkill")
+    return <MachineLearningImg theme={props.theme} />;
+  else if (props.fileName === "fifthSkill")
+    return <FullStackImg theme={props.theme} />;
   return <DesignImg theme={props.theme} />;
 }
 
