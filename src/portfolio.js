@@ -28,7 +28,7 @@ const greeting = {
   `,
   resumeLink:
     "https://drive.google.com/file/d/108vbEJ6fdL-xYvTI6QfhtGOURvy7TETi/view?usp=sharing",
-  portfolio_repository: "https://github.com/AhmadHatziq/portfolioo",
+  portfolio_repository: "https://github.com/AhmadHatziq/portfolio",
   githubProfile: "https://github.com/AhmadHatziq/",
 };
 
@@ -1082,6 +1082,7 @@ const contactPageData = {
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
   },
+
   blogSection: {
     title: "Blogs",
     subtitle:
@@ -1089,16 +1090,17 @@ const contactPageData = {
     link: "https://blogs.ashutoshhathidara.com/",
     avatar_image_path: "blogs_image.svg",
   },
+
   addressSection: {
-    title: "Address",
-    subtitle: "Saratoga Ave, San Jose, CA, USA 95129",
-    locality: "San Jose",
-    country: "USA",
-    region: "California",
-    postalCode: "95129",
-    streetAddress: "Saratoga Avenue",
+    title: "Sunny Singapore",
+    subtitle: "🏝️",
+    locality: "",
+    country: "SG",
+    region: "",
+    postalCode: "",
+    streetAddress: "",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://maps.app.goo.gl/NvYZqa34Wye4tpS17",
+    location_map_link: "https://maps.app.goo.gl/JHnLm5zT79E62L1q6",
   },
   phoneSection: {
     title: "",
