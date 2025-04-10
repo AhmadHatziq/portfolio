@@ -842,8 +842,12 @@ const certifications = {
 const experience = {
   title: "Experience",
   subtitle: "Work",
-  description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+  description: `
+    I’ve worked as a Software Engineer at places from government agencies to a health‑tech startup.
+    I’ve dipped my toes into software development, cybersecurity, DevOps, cloud, and even machine learning.
+    Above all, I’m a tech problem‑solver who loves building robust, secure, and scalable solutions.
+    It helps that I am a nerd and enjoy learning 🤓
+    `,
   header_image_path: "experience.svg",
   sections: [
     {
@@ -851,47 +855,81 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "Machine Learning Engineer",
-          company: "TikTok Inc.",
-          company_url: "https://www.tiktok.com/en/",
+          title: "Software Engineer (Security)",
+          company: "Monetary Authority of Singapore (contracted under Jobster)",
+          company_url: "https://www.mas.gov.sg/",
           logo_path: "mas_logo.jpg",
-          duration: "June 2023 - Present",
-          location: "San Jose, CA, USA",
-          description:
-            "Improving ads ranking models on the core TikTok product. Experience working on modeling two-tower architectures like DeepFM, Wide & deep learning, etc. Working on Large Language Models (LLM) pretraining and Large Multi-modal Model (LMM) finetuning strategies.",
+          duration: "Oct 2024 - Present",
+          location: "Singapore",
+          description: `
+            I’m helping integrate  internal apps with stronger security — think advanced DB encryption methods.
+            I am also involved in the GRC side of things, as well as Software Security and DevSecOps. 
+          `,
           color: "#000000",
         },
         {
-          title: "Associate AI Engineer",
-          company: "Legato Health Technology",
-          company_url: "https://legatohealthtech.com/",
-          logo_path: "legato_logo.png",
-          duration: "June 2020 - Aug 2021",
-          location: "Hyderabad, Telangana",
-          description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+          title: "Software Engineer (Back-End, DevOps)",
+          company: "Amplify Health",
+          company_url: "https://www.amplifyhealth.com/en/index",
+          logo_path: "amplify_health_logo.png",
+          duration: "June 2023 - Oct 2024",
+          location: "Singapore",
+          description: `
+            I worked on a fraud‑detection ML claims system used by AIA, Great Eastern, and Prudential.
+            I wore many hats; from DevOps/DevSecOps to SRE to back‑end work on the queuing and metrics systems.
+            `,
           color: "#0879bf",
         },
         {
-          title: "Android and ML Developer",
-          company: "Muffito Incorporation",
-          company_url: "https://www.linkedin.com/company/muffito-inc/about/",
-          logo_path: "muffito_logo.png",
-          duration: "May 2018 - Oct 2018",
-          location: "Pune, Maharashtra",
-          description:
-            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+          title: "Cybersecurity Engineer / Developer",
+          company: "Cyber Security Agency",
+          company_url: "https://www.csa.gov.sg/",
+          logo_path: "csa_logo.jpg",
+          duration: "Jul 2021 - Jun 2023",
+          location: "Singapore",
+          description: `
+            I split my time between SOC analyst work (responding to alerts) and SOC engineering (automating playbooks and developing tools)
+            I even developed a Python app to parse data dumps for sensitive PII.
+          `,
           color: "#9b1578",
         },
         {
-          title: "Android Developer",
-          company: "FreeCopy Pvt. Ltd.",
+          title: "Software Engineer (Java)",
+          company: "Infineon",
+          company_url: "https://www.infineon.com/",
+          logo_path: "infineon_logo.png",
+          duration: "Aug 2019 - Jun 2020",
+          location: "Singapore",
+          description: `
+            I teamed up with three others to build a Java app that feeds data into FlexSim factory‑floor simulations.
+            Then we surfaced the results in Tableau dashboards for easy insights.
+          `,
+          color: "#fc1f20",
+        },
+        {
+          title: "Data Engineer",
+          company: "Ministry of Manpower",
+          company_url: "https://www.mom.gov.sg/",
+          logo_path: "mom_logo.png",
+          duration: "Jan 2019 - Jun 2019",
+          location: "Singapore",
+          description: `
+            I spent six months building end‑to‑end ETL pipelines with SQL Server, SSIS, and VBA.
+            I automated data cleansing and then delivered interactive Power BI dashboards.
+          `,
+          color: "#fc1f20",
+        },
+        {
+          title: "IT Engineer",
+          company: "Singapore Police Force",
           company_url: "https://www.linkedin.com/company/freecopy/about/",
-          logo_path: "freecopy_logo.png",
-          duration: "Nov 2017 - Dec 2017",
-          location: "Ahmedabad, Gujarat",
-          description:
-            "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
+          logo_path: "apd_logo.jpg",
+          duration: "Dec 2013 - Dec 2015",
+          location: "Singapore",
+          description: `
+            I supported desktop users across the force and got a crash course in IT ops.
+            I also completed basic police training and joined field ops to help keep Singapore safe.
+          `,
           color: "#fc1f20",
         },
       ],
