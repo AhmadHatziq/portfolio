@@ -14,6 +14,8 @@ How to deploy to GitHub pages:
 
 Color picker: Use Google's color picker, google `hex color picker` or `https://imagecolorpicker.com/`
 
+Where to get icons: https://icon-sets.iconify.design/
+
 Accessible at: https://ahmadhatziq.github.io/portfolio/
 
 Credits:

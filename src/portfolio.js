@@ -68,33 +68,12 @@ const skills = {
       title: "Back-End & Software Engineering",
       fileName: "firstSkill",
       skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+        "⚡ Developing robust backend APIs using Python (FastAPI, Flask, Django) and NodeJS for scalable microservices",
+        "⚡ Designing and maintaining ETL workflows and complex SQL queries on MS SQL, MySQL, and PostgreSQL databases",
+        "⚡ Experience integrating business logic, asynchronous tasks (Redis/rq), and data pipelines into production systems",
+        "⚡ Working knowledge of Golang, Java",
       ],
       softwareSkills: [
-        {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
-          style: {
-            backgroundColor: "white",
-            color: "#D00000",
-          },
-        },
-        {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
         {
           skillName: "Python",
           fontAwesomeClassname: "ion-logo-python",
@@ -104,54 +83,11 @@ const skills = {
           },
         },
         {
-          skillName: "Deeplearning",
-          imageSrc: "deeplearning_ai_logo.png",
-        },
-      ],
-    },
-    {
-      title: "DevOps, DevSecOps & SRE",
-      fileName: "secondSkill",
-      skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
-      ],
-      softwareSkills: [
-        {
-          skillName: "HTML5",
-          fontAwesomeClassname: "simple-icons:html5",
-          style: {
-            color: "#E34F26",
-          },
-        },
-        {
-          skillName: "CSS3",
-          fontAwesomeClassname: "fa-css3",
-          style: {
-            color: "#1572B6",
-          },
-        },
-        {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
-          style: {
-            color: "#CC6699",
-          },
-        },
-        {
           skillName: "JavaScript",
-          fontAwesomeClassname: "simple-icons:javascript",
+          fontAwesomeClassname: "devicon-plain:javascript",
           style: {
-            backgroundColor: "#000000",
-            color: "#F7DF1E",
-          },
-        },
-        {
-          skillName: "ReactJS",
-          fontAwesomeClassname: "simple-icons:react",
-          style: {
-            color: "#61DAFB",
+            backgroundColor: "#323330",
+            color: "#f0db4f",
           },
         },
         {
@@ -162,52 +98,38 @@ const skills = {
           },
         },
         {
-          skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
-          style: {
-            color: "#CB3837",
-          },
+          skillName: "Microsoft SQL Server",
+          fontAwesomeClassname: "simple-icons:microsoftsqlserver",
+          style: { color: "#CC2927" },
         },
         {
-          skillName: "Yarn",
-          fontAwesomeClassname: "simple-icons:yarn",
-          style: {
-            color: "#2C8EBB",
-          },
+          skillName: "Redis",
+          fontAwesomeClassname: "simple-icons:redis",
+          style: { color: "#DC382D" },
         },
         {
-          skillName: "Gatsby",
-          fontAwesomeClassname: "simple-icons:gatsby",
-          style: {
-            color: "#663399",
-          },
+          skillName: "Java",
+          fontAwesomeClassname: "logos-java",
+          style: { backgroundColor: "transparent" },
         },
         {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
+          skillName: "Golang",
+          fontAwesomeClassname: "logos-go",
+          style: { backgroundColor: "transparent" },
         },
       ],
     },
     {
-      title: "Cybersecurity & Security Architecture",
-      fileName: "thirdSkill",
+      title: "DevOps, DevSecOps & SRE",
+      fileName: "secondSkill",
       skills: [
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+        "⚡ Managed Kubernetes clusters across AWS and Azure, supporting containerized API workloads and ensuring application reliability",
+        "⚡ Developed service-level monitoring by pushing application metrics to observability platforms, enabling SLO compliance tracking",
+        "⚡ Built and maintained custom Docker base images (NodeJS, Python, JDK) to enforce consistent and secure build environments",
+        "⚡ Integrated security tools (Trivy, Prisma, Vera etc) into CI/CD workflows for vulnerability scanning and automated reporting",
+        "⚡ Automated deployments using GitHub Actions, GitLab CI/CD, and Azure Pipelines across multiple cloud-native projects",
       ],
       softwareSkills: [
-        {
-          skillName: "GCP",
-          fontAwesomeClassname: "simple-icons:googlecloud",
-          style: {
-            color: "#4285F4",
-          },
-        },
         {
           skillName: "AWS",
           fontAwesomeClassname: "simple-icons:amazonaws",
@@ -220,27 +142,6 @@ const skills = {
           fontAwesomeClassname: "simple-icons:microsoftazure",
           style: {
             color: "#0089D6",
-          },
-        },
-        {
-          skillName: "Firebase",
-          fontAwesomeClassname: "simple-icons:firebase",
-          style: {
-            color: "#FFCA28",
-          },
-        },
-        {
-          skillName: "PostgreSQL",
-          fontAwesomeClassname: "simple-icons:postgresql",
-          style: {
-            color: "#336791",
-          },
-        },
-        {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#47A248",
           },
         },
         {
@@ -257,44 +158,109 @@ const skills = {
             color: "#326CE5",
           },
         },
+        {
+          skillName: "Linux",
+          fontAwesomeClassname: "simple-icons:linux",
+          style: { color: "#FCC624" },
+        },
+        {
+          skillName: "Git",
+          fontAwesomeClassname: "simple-icons:git",
+          style: { color: "#F05032" },
+        },
+      ],
+    },
+    {
+      title: "Cybersecurity & Security Architecture",
+      fileName: "thirdSkill",
+      skills: [
+        "⚡ Provided architecture-level security recommendations and performed reviews on DB encryption, cloud, & CI/CD implementations",
+        "⚡ Developed detection and response playbooks to support security operations and enable faster incident handling",
+        "⚡ Assessed application risks and security posture against frameworks such as NIST, CIS Benchmarks, and ISO 27001",
+        "⚡ Engineered Python tools to automate alert enrichment, integrate CTI sources (e.g., VirusTotal), and streamline analyst workflows",
+        "⚡ Conducted security incident triage and log analysis as a SOC analyst, leveraging SIEM platforms and threat intelligence feeds",
+      ],
+      softwareSkills: [
+        {
+          skillName: "Cryptography",
+          fontAwesomeClassname: "vscode-icons:file-type-codeowners",
+          style: {
+            color: "#4285F4",
+          },
+        },
+        {
+          skillName: "Linux",
+          fontAwesomeClassname: "vscode-icons:folder-type-linux",
+          style: {
+            color: "#FF9900",
+          },
+        },
+        {
+          skillName: "Device Security",
+          fontAwesomeClassname: "game-icons:laptop",
+          style: {
+            color: "#0089D6",
+          },
+        },
+        {
+          skillName: "Databases",
+          fontAwesomeClassname: "system-uicons:database",
+          style: {
+            color: "#1488C6",
+          },
+        },
+        {
+          skillName: "Encryption",
+          fontAwesomeClassname: "game-icons:padlock-open",
+          style: {
+            color: "#326CE5",
+          },
+        },
+        {
+          skillName: "Systems Security",
+          fontAwesomeClassname: "simple-icons:amazonec2",
+          style: { color: "##FF9900" },
+        },
       ],
     },
     {
       title: "Data Science, ML & Analytics",
       fileName: "fourthSkill",
       skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
+        "⚡ Integrated with machine learning APIs to support insurance fraud detection, such as identifying anomalous claims through historical benchmarking and classifiers",
+        "⚡ Collaborated with ML engineers to deploy production pipelines that detect fraudulent healthcare claims using pattern recognition and domain-specific features",
+        "⚡ Built a proof-of-concept ML model to classify malicious URLs using gradient boosting and content-based features",
+        "⚡ Developed a SARIMAX time series model to predict dengue case counts in Singapore by integrating weather, search, and health datasets",
+        "⚡ Applied statistical modeling, R and Python libraries (Pandas, NumPy, Scikit-learn) for data wrangling, feature engineering, and experimentation",
       ],
       softwareSkills: [
         {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobexd",
+          skillName: "Python",
+          fontAwesomeClassname: "ion-logo-python",
           style: {
-            color: "#FF2BC2",
+            backgroundColor: "transparent",
+            color: "#3776AB",
           },
         },
         {
-          skillName: "Figma",
-          fontAwesomeClassname: "simple-icons:figma",
-          style: {
-            color: "#F24E1E",
-          },
+          skillName: "R",
+          fontAwesomeClassname: "simple-icons:r",
+          style: { color: "#r" },
         },
         {
-          skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:adobeillustrator",
-          style: {
-            color: "#FF7C00",
-          },
+          skillName: "Jupyter",
+          fontAwesomeClassname: "simple-icons:jupyter",
+          style: { color: "#F37626" },
         },
         {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
-          style: {
-            color: "#000000",
-          },
+          skillName: "NumPy",
+          fontAwesomeClassname: "simple-icons:numpy",
+          style: { color: "#013243" },
+        },
+        {
+          skillName: "Spark",
+          fontAwesomeClassname: "simple-icons:apachespark",
+          style: { color: "#E25A1C" },
         },
       ],
     },
@@ -302,37 +268,39 @@ const skills = {
       title: "Full Stack Development",
       fileName: "fifthSkill",
       skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
+        "⚡ Built full-stack web applications using ReactJS and Django",
+        "⚡ Developed RESTful APIs and integrated them with interactive UIs for data-driven platforms",
+        "⚡ Experience with form handling, user authentication, and database interactions using Django’s ORM",
+        "⚡ Designed and customized this portfolio site using React and modern frontend practices as a practical showcase",
+        "⚡ Developed 'Geocache', a full-stack Django application for location-based treasure hunting with integrated Google Maps APIs, interactive markers, user discussions, and image uploads",
       ],
       softwareSkills: [
         {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobexd",
+          skillName: "React JS",
+          fontAwesomeClassname: "simple-icons:react",
           style: {
-            color: "#FF2BC2",
+            color: "#61DAFB",
           },
         },
         {
-          skillName: "Figma",
-          fontAwesomeClassname: "simple-icons:figma",
+          skillName: "Node JS",
+          fontAwesomeClassname: "simple-icons:nodedotjs",
           style: {
-            color: "#F24E1E",
+            color: "#5FA04E",
           },
         },
         {
-          skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:adobeillustrator",
+          skillName: "Django",
+          fontAwesomeClassname: "simple-icons:django",
           style: {
-            color: "#FF7C00",
+            color: "#092E20",
           },
         },
         {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
+          skillName: "Google Maps API",
+          fontAwesomeClassname: "simple-icons:googlemaps",
           style: {
-            color: "#000000",
+            color: "#4285F4",
           },
         },
       ],
