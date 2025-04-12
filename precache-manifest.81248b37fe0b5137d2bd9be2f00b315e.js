@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "01ef4f2a0e43a9d9d5e25c509c8c3b6a",
+    "revision": "820e7b29fdb1ee7ef9690d92485d755e",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "d3012ac8e0fa94e65237",
+    "revision": "297377cd0cf7cdd57639",
     "url": "/portfolio/static/css/main.5995091c.chunk.css"
   },
   {
-    "revision": "b6814ad67fcb4161a662",
-    "url": "/portfolio/static/js/2.8240be3e.chunk.js"
+    "revision": "57ac8b5347f508f9733c",
+    "url": "/portfolio/static/js/2.94366c99.chunk.js"
   },
   {
-    "revision": "d3012ac8e0fa94e65237",
-    "url": "/portfolio/static/js/main.9a65d2ee.chunk.js"
+    "revision": "297377cd0cf7cdd57639",
+    "url": "/portfolio/static/js/main.401918ff.chunk.js"
   },
   {
     "revision": "1d47b31c794f99caf0b5",
@@ -294,6 +294,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3ccfdbfbf4fd16de9447ae7d653cc74d",
     "url": "/portfolio/static/media/harvardx_logo.3ccfdbfb.webp"
+  },
+  {
+    "revision": "9a557a1064722d7d0c649ec263715883",
+    "url": "/portfolio/static/media/hatziq_cartoon_v1.9a557a10.png"
+  },
+  {
+    "revision": "5664444f701e0ab65a16c40f07e9ba64",
+    "url": "/portfolio/static/media/hatziq_cartoon_v1.png:Zone.5664444f.Identifier"
   },
   {
     "revision": "d3fccbe1db76b96f4f320d9c0f7da30c",
