@@ -375,7 +375,7 @@ const degrees = {
       descriptions: [
         "⚡ Started out in Industrial & Systems Engineering — learned about supply chains, optimization, simulations, and a healthy dose of operations research",
         "⚡ Somewhere along the way, I realized I liked coding more than manufacturing or logistics... but by then, it was a bit too late to jump ship to Computer Science. So I doubled down with minors in CS and Stats instead",
-        "⚡ Systems Engineering still gave me solid exposure to computing — stuff like software development, networks, and even a bit of ML sprinkled in",
+        "⚡ Systems Engineering still gave me solid exposure to computing — stuff like software development, networks and even a bit of ML sprinkled in",
         "⚡ Followed my curiosity into tech and data — interned as a Data Engineer, and wrapped things up with a Java-based capstone project in Software Development",
       ],
       website_link:
@@ -390,7 +390,7 @@ const degrees = {
       descriptions: [
         "⚡ I’ve always liked coding, but I also had a thing for data — so I went down the stats rabbit hole and took up a MSc in Statistics",
         "⚡ Took on a mix of technical courses like Machine Learning, Stochastic Processes, and Spatial Stats — the kind of math that makes your brain both cry and high-five you",
-        "⚡ Outside of school, I kept busy with online coursework in NLP, Data Engineering, AI and more — because one syllabus was clearly not enough",
+        "⚡ Outside of school, I kept busy with online coursework in NLP, Data Engineering, Spark and more — because one syllabus was clearly not enough",
       ],
       website_link:
         "https://drive.google.com/file/d/1r1IjpvcoeavG88rT6FGs0PjONHVcrPwt",
@@ -403,7 +403,7 @@ const degrees = {
       duration: "2021 July - 2021 Oct",
       descriptions: [
         "⚡ Think of this program as a crash course in hacking... but the legal kind",
-        "⚡ Covered topics like cybersecurity tools, digital forensics, systems security, and computer networks — finally got to packet sniff without raising eyebrows",
+        "⚡ Covered topics like cybersecurity tools, digital forensics, systems security, and computer networks — learnt that firewalls don't actually involve fire",
         "⚡ It deepened my understanding of cybersecurity’s core areas and gave me a structured way to build on-the-job knowledge",
       ],
       website_link:
@@ -594,7 +594,7 @@ const certifications = {
       color_code: "#ffffff",
     },
     {
-      title: "Certified Kubernetes Security",
+      title: "Certified Kubernetes Security (CKS)",
       subtitle: "- Linux Foundation",
       logo_path: "cks_logo.png",
       certificate_link:
@@ -603,7 +603,7 @@ const certifications = {
       color_code: "#ffffff",
     },
     {
-      title: "Certified Kubernetes Administrator",
+      title: "Certified Kubernetes Administrator (CKA)",
       subtitle: "- Linux Foundation",
       logo_path: "cka_logo.png",
       certificate_link:
@@ -612,7 +612,7 @@ const certifications = {
       color_code: "#F5F7FA",
     },
     {
-      title: "Certified Kubernetes Application Developer",
+      title: "Certified Kubernetes Application Developer (CKAD)",
       subtitle: "- Linux Foundation",
       logo_path: "ckad_logo.png",
       certificate_link:
