@@ -54,6 +54,12 @@
   margin-left: 20px;
   margin-right: 20px;
   font-family: "Google Sans Medium";
+
+  white-space: normal; /* Allow line breaks */
+  overflow: visible; /* Don't hide overflow */
+  text-overflow: unset; /* Disable text truncation */
+  display: block; /* Ensure block behavior */
+  word-break: break-word; /* Wrap long words if needed */
 }
 .publications-heading-text-div {
   text-align: center;

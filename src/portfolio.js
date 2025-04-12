@@ -1005,8 +1005,10 @@ const experience = {
 // Projects Page
 const projectsHeader = {
   title: "Projects",
-  description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+  description: `
+  If I have spare time outside of work and I'm not busy studying, I like to work on side projects.  
+  The projects listed here are a mix of academic and personnal work (out of interest or to explore a new technology)  
+  `,
   avatar_image_path: "projects_image.svg",
 };
 

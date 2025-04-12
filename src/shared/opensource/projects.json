@@ -1,11 +1,11 @@
 {
   "data": [
     {
-      "id": "R_kgDOJWL0-g",
-      "name": "mdp-diffusion",
-      "createdAt": "2023-04-13T04:18:19Z",
-      "url": "https://github.com/ashutosh1919/mdp-diffusion",
-      "description": "Text-guided image editing by manipulating diffusion path without any training.",
+      "id": "goe_cache_web_app",
+      "name": "Geo Cache Web App",
+      "createdAt": "2023-04-01T04:18:19Z",
+      "url": "https://github.com/AhmadHatziq/cs50w/blob/main/Project%205%20-%20Capstone/capstone/README.md",
+      "description": "🌍 Geocaching app using Django & Google Maps API for location tagging",
       "isFork": false,
       "languages": [
         {
@@ -13,94 +13,72 @@
           "iconifyClass": "logos-python"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
+          "name": "Django",
+          "iconifyClass": "simple-icons:django"
         },
         {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
+          "name": "Google Maps API",
+          "iconifyClass": "simple-icons:googlemaps"
         }
       ]
     },
     {
-      "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+      "id": "dengue_prediction",
+      "name": "Dengue Prediction using Time Series",
+      "createdAt": "2020-05-01T20:41:33Z",
+      "url": "https://github.com/AhmadHatziq/dengue-prediction-time-series/tree/main",
+      "description": "🦟 Predicted SG dengue trends using ARIMAX & weather data in time series",
       "isFork": false,
       "languages": [
         {
           "name": "Python",
           "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter",
+          "iconifyClass": "simple-icons:jupyter"
         }
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "id": "url_classifier",
+      "name": "Malicious URL Classification",
+      "createdAt": "2021-10-10T16:26:54Z",
+      "url": "https://github.com/AhmadHatziq/cyber-security-modular-master-projects/blob/main/Malicious%20URL%20Classifier%20Project/README.md",
+      "description": "🛡️ Built URL classifier with a Chrome extension to flag malicious websites",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "",
+          "iconifyClass": "vscode-icons:folder-type-linux"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "",
+          "iconifyClass": "game-icons:padlock-open"
         },
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
+          "name": "",
+          "iconifyClass": "vscode-icons:file-type-codeowners"
         }
       ]
     },
     {
-      "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
+      "id": "home_lab_ml",
+      "name": "Network Anomaly Detection via Home Lab",
+      "createdAt": "2021-11-11T14:50:20Z",
+      "url": "https://github.com/AhmadHatziq/cyber-security-modular-master-projects/blob/main/Network%20Anomaly%20Detection%20Project/README.md",
+      "description": "🧪 Built home lab to collect network data & train ML for anomaly detection",
       "isFork": false,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
+      "languages": []
     },
     {
-      "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
+      "id": "data_engineering",
+      "name": "Data Engineering Projects (Udacity)",
+      "createdAt": "2021-01-27T17:56:07Z",
+      "url": "https://github.com/AhmadHatziq/data-engineering-nanodegree",
+      "description": "🛠️ Built data models & pipelines using Postgres, Spark, Redshift & Airflow",
       "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
+      "languages": []
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
