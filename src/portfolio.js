@@ -30,6 +30,7 @@ const greeting = {
     "https://drive.google.com/file/d/108vbEJ6fdL-xYvTI6QfhtGOURvy7TETi/view?usp=sharing",
   portfolio_repository: "https://github.com/AhmadHatziq/portfolio",
   githubProfile: "https://github.com/AhmadHatziq/",
+  linkedInLink: "https://www.linkedin.com/in/ahmad-hatziq-74a938171/",
 };
 
 const socialMediaLinks = [
@@ -68,10 +69,10 @@ const skills = {
       title: "Back-End & Software Engineering",
       fileName: "firstSkill",
       skills: [
-        "⚡ Developing robust backend APIs using Python (FastAPI, Flask, Django) and NodeJS for scalable microservices",
-        "⚡ Designing and maintaining ETL workflows and complex SQL queries on MS SQL, MySQL, and PostgreSQL databases",
-        "⚡ Experience integrating business logic, asynchronous tasks (Redis/rq), and data pipelines into production systems",
-        "⚡ Working knowledge of Golang, Java",
+        "⚡ I dabbled in building backend APIs with Python (FastAPI, Flask, Django) and NodeJS — all in the name of clean, scalable microservices",
+        "⚡ Spent a good amount of time working with databases (eg MS SQL, MySQL) and also familiar with wrangling data via ETL workflows",
+        "⚡ Hooked up business logic, async tasks (like Redis + rq), and data pipelines to make apps tick behind the scenes",
+        "⚡ Played around with Golang and Java — not a pro, but I know my way around",
       ],
       softwareSkills: [
         {
@@ -123,11 +124,11 @@ const skills = {
       title: "DevOps, DevSecOps & SRE",
       fileName: "secondSkill",
       skills: [
-        "⚡ Managed Kubernetes clusters across AWS and Azure, supporting containerized API workloads and ensuring application reliability",
-        "⚡ Developed service-level monitoring by pushing application metrics to observability platforms, enabling SLO compliance tracking",
-        "⚡ Built and maintained custom Docker base images (NodeJS, Python, JDK) to enforce consistent and secure build environments",
-        "⚡ Integrated security tools (Trivy, Prisma, Vera etc) into CI/CD workflows for vulnerability scanning and automated reporting",
-        "⚡ Automated deployments using GitHub Actions, GitLab CI/CD, and Azure Pipelines across multiple cloud-native projects",
+        "⚡ I got my hands dirty running Kubernetes clusters on AWS and Azure — kept containerized APIs running smooth and steady",
+        "⚡ Set up monitoring pipelines that pushed app metrics to dashboards, so we could actually track if our SLOs were behaving",
+        "⚡ Cooked up custom Docker base images (NodeJS, Python, JDK) to keep builds consistent, secure, and not too spicy",
+        "⚡ Slipped in security tools like Trivy, Prisma, and Vera into CI/CD — so scans and reports ran while we sipped coffee",
+        "⚡ Automated a bunch of deployments with GitHub Actions, GitLab CI, and Azure Pipelines — across a mess of cloud-native stuff",
       ],
       softwareSkills: [
         {
@@ -174,11 +175,12 @@ const skills = {
       title: "Cybersecurity & Security Architecture",
       fileName: "thirdSkill",
       skills: [
-        "⚡ Provided architecture-level security recommendations and performed reviews on DB encryption, cloud, & CI/CD implementations",
-        "⚡ Developed detection and response playbooks to support security operations and enable faster incident handling",
-        "⚡ Assessed application risks and security posture against frameworks such as NIST, CIS Benchmarks, and ISO 27001",
-        "⚡ Engineered Python tools to automate alert enrichment, integrate CTI sources (e.g., VirusTotal), and streamline analyst workflows",
-        "⚡ Conducted security incident triage and log analysis as a SOC analyst, leveraging SIEM platforms and threat intelligence feeds",
+        "⚡ Gave architecture-level security advice — yeah it’s ‘high level’, but I still got my hands dirty and knew what I was talking about (promise!)",
+        "⚡ Got hands-on with DB encryption, hardened cloud infra, and tightened up CI/CD pipelines with security controls baked in",
+        "⚡ Wrote detection and response playbooks so the team could handle incidents without breaking a sweat",
+        "⚡ Checked apps against NIST, CIS Benchmarks, ISO 27001 — basically played risk cop for the whole stack",
+        "⚡ Whipped up Python code to automate workflows, enrich alerts, pull in CTI and save analysts from drowning in logs",
+        "⚡ Lived the SOC life — triaged incidents, dug through logs, and wrangled SIEM dashboards with threat intel feeds flying in",
       ],
       softwareSkills: [
         {
@@ -219,7 +221,7 @@ const skills = {
         {
           skillName: "Systems Security",
           fontAwesomeClassname: "simple-icons:amazonec2",
-          style: { color: "##FF9900" },
+          style: { color: "#FF9900" },
         },
       ],
     },
@@ -227,11 +229,10 @@ const skills = {
       title: "Data Science, ML & Analytics",
       fileName: "fourthSkill",
       skills: [
-        "⚡ Integrated with machine learning APIs to support insurance fraud detection, such as identifying anomalous claims through historical benchmarking and classifiers",
-        "⚡ Collaborated with ML engineers to deploy production pipelines that detect fraudulent healthcare claims using pattern recognition and domain-specific features",
-        "⚡ Built a proof-of-concept ML model to classify malicious URLs using gradient boosting and content-based features",
-        "⚡ Developed a SARIMAX time series model to predict dengue case counts in Singapore by integrating weather, search, and health datasets",
-        "⚡ Applied statistical modeling, R and Python libraries (Pandas, NumPy, Scikit-learn) for data wrangling, feature engineering, and experimentation",
+        "⚡ Worked with ML engineers to get fraud-detection models into production — we’re talking classifiers, features, and the occasional weird edge case",
+        "⚡ Got cozy with R and Python (Pandas, NumPy) for wrangling messy data, engineering features, and running experiments — because Excel wasn’t built for this kind of pain",
+        "⚡ Threw together a proof-of-concept ML model to catch malicious URLs using gradient boosting and a bit of feature wizardry",
+        "⚡ Built a time series model (SARIMAX) to predict nasty dengue outbreaks in Singapore",
       ],
       softwareSkills: [
         {
@@ -268,11 +269,11 @@ const skills = {
       title: "Full Stack Development",
       fileName: "fifthSkill",
       skills: [
-        "⚡ Built full-stack web applications using ReactJS and Django",
-        "⚡ Developed RESTful APIs and integrated them with interactive UIs for data-driven platforms",
-        "⚡ Experience with form handling, user authentication, and database interactions using Django’s ORM",
-        "⚡ Designed and customized this portfolio site using React and modern frontend practices as a practical showcase",
-        "⚡ Developed 'Geocache', a full-stack Django application for location-based treasure hunting with integrated Google Maps APIs, interactive markers, user discussions, and image uploads",
+        "⚡ Whipped up full-stack apps using ReactJS and Django — frontend, backend, and everything in between",
+        "⚡ Built REST APIs and wired them up to snappy UIs — because clicking buttons should actually do something",
+        "⚡ Tweaked and styled this very portfolio site with React — a hands-on way to flex what I’ve been learning",
+        "⚡ Messed around with Django’s ORM for forms, auth, and DB stuff — so users could sign up, log in, and not break things",
+        "⚡ Built 'Geocache', a Django-based treasure hunting app with Google Maps, markers, image uploads, and even some user banter (comments)",
       ],
       softwareSkills: [
         {
@@ -372,9 +373,10 @@ const degrees = {
       alt_name: "NUS ISE",
       duration: "2016 July - 2020 May",
       descriptions: [
-        "⚡ I majored in Industrial & Systems Engineering, learning concepts such as Supply Chain, Optimization, Operations Research, Simulation",
-        "⚡ Due to the overlapping nature of Systems Engineering, I was exposed to Computing Concepts such as Databases, Networking, Cybersecurity etc",
-        "⚡ I further pursued my interests in Techology and Data, growing as a Data Engineering intern and Software Development (Java) for my capstone",
+        "⚡ Started out in Industrial & Systems Engineering — learned about supply chains, optimization, simulations, and a healthy dose of operations research",
+        "⚡ Somewhere along the way, I realized I liked coding more than manufacturing or logistics... but by then, it was a bit too late to jump ship to Computer Science. So I doubled down with minors in CS and Stats instead",
+        "⚡ Systems Engineering still gave me solid exposure to computing — stuff like software development, networks, and even a bit of ML sprinkled in",
+        "⚡ Followed my curiosity into tech and data — interned as a Data Engineer, and wrapped things up with a Java-based capstone project in Software Development",
       ],
       website_link:
         "https://drive.google.com/file/d/1qqNVNAuG7a_oaXCHRhRmeG30JRdbYh5a/view",
@@ -386,8 +388,9 @@ const degrees = {
       alt_name: "NUS Msc Stats",
       duration: "2020 July - 2021 May",
       descriptions: [
-        "⚡ I have taken variety of courses related to Data Science & Statistics, such as Machine Learning, Spatial Statistics, Stochastic Processes etc",
-        "⚡ Apart from this, I supplemented my studies with online coursework on NLP, Data Engineering, Artificial Intelligence etc",
+        "⚡ I’ve always liked coding, but I also had a thing for data — so I went down the stats rabbit hole and took up a MSc in Statistics",
+        "⚡ Took on a mix of technical courses like Machine Learning, Stochastic Processes, and Spatial Stats — the kind of math that makes your brain both cry and high-five you",
+        "⚡ Outside of school, I kept busy with online coursework in NLP, Data Engineering, AI and more — because one syllabus was clearly not enough",
       ],
       website_link:
         "https://drive.google.com/file/d/1r1IjpvcoeavG88rT6FGs0PjONHVcrPwt",
@@ -399,8 +402,9 @@ const degrees = {
       alt_name: "SUTD",
       duration: "2021 July - 2021 Oct",
       descriptions: [
-        "⚡ Took cybersecurity coursework such as Cybersecurity Tools, Digital Forensics, Systems Security, Computer Networks",
-        "⚡ Deepened exposure to cybersecurity core areas",
+        "⚡ Think of this program as a crash course in hacking... but the legal kind",
+        "⚡ Covered topics like cybersecurity tools, digital forensics, systems security, and computer networks — finally got to packet sniff without raising eyebrows",
+        "⚡ It deepened my understanding of cybersecurity’s core areas and gave me a structured way to build on-the-job knowledge",
       ],
       website_link:
         "https://drive.google.com/file/d/1UNnqm_lkg1q1KjspfynPxJfRd0mmr3yn/view?usp=drive_link",
@@ -412,8 +416,10 @@ const degrees = {
       alt_name: "WQ MFE",
       duration: "2024 Oct - Ongoing",
       descriptions: [
-        "⚡ Covers financial concepts such as Derivatives, Options Trading, Deep Learning in Finance, Time Series (GARCH) etc.",
-        "⚡ Gaining a deeper understanding of Finance concepts",
+        "⚡ Because one Master’s degree clearly wasn’t enough, I jumped into an MFE to deep dive further into finance (thanks MAS)",
+        "⚡ After a stats degree full of elegant math and not-so-elegant p-values, I was itching to apply those skills to something real — like markets, risk, and money actually moving",
+        "⚡ So far, I’ve covered Options Trading and time series models like GARCH — finally putting stats to work outside a chalkboard",
+        "⚡ I’m only 3 out of 10 courses in... so time will tell if I finish this (fingers crossed and caffeinated).",
       ],
       website_link:
         "https://drive.google.com/file/d/1DHGF1BYhu7_Ga-VruDW4Xg2njvM41zTo/view?usp=drive_link",
@@ -1048,8 +1054,8 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
-    description: "I am available on almost every social media. Do reach out!",
+    profile_image_path: "hatziq_cartoon_v1.png",
+    description: "Happy for a quick chat! (Please don't spam me)",
   },
 
   /*

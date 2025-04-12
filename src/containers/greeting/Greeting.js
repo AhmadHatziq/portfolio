@@ -35,7 +35,7 @@ export default function Greeting(props) {
                   newTab={true}
                   /* href={greeting.portfolio_repository} */
 
-                  href={greeting.resumeLink}
+                  href={greeting.linkedInLink}
                   theme={theme}
                   className="portfolio-repo-btn"
                 />

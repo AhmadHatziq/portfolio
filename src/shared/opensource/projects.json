@@ -81,22 +81,13 @@
       "languages": []
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
+      "id": "java_decision_support_system",
+      "name": "Decision Support System (Java)",
+      "createdAt": "2020-01-08T08:31:51Z",
+      "url": "https://github.com/AhmadHatziq/decision-support-system",
+      "description": "📈Virtual factory simulation using Java, FlexSim and Tableau",
       "isFork": false,
-      "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        }
-      ]
+      "languages": []
     }
   ]
 }
