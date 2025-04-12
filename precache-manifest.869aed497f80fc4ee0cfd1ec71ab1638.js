@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c1187e65e141d31c072a3a179376e18e",
+    "revision": "6df2a7d69d81a5aaf3ea2afddbfb3e3d",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "15d0e14380f0075e13f0",
+    "revision": "1df02ee25599037a297e",
     "url": "/portfolio/static/css/main.5995091c.chunk.css"
   },
   {
-    "revision": "57ac8b5347f508f9733c",
-    "url": "/portfolio/static/js/2.94366c99.chunk.js"
+    "revision": "95839e1e77f4e1362acc",
+    "url": "/portfolio/static/js/2.7bef86e7.chunk.js"
   },
   {
-    "revision": "15d0e14380f0075e13f0",
-    "url": "/portfolio/static/js/main.2b7a5096.chunk.js"
+    "revision": "1df02ee25599037a297e",
+    "url": "/portfolio/static/js/main.1e37fe6b.chunk.js"
   },
   {
     "revision": "1d47b31c794f99caf0b5",
@@ -270,6 +270,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2936ce95f550e3feef7230ea543a4b60",
     "url": "/portfolio/static/media/feelingProud.2936ce95.svg"
+  },
+  {
+    "revision": "a9474427f101a628dc683bcb718ffd4a",
+    "url": "/portfolio/static/media/flailing_magikarp.a9474427.gif"
+  },
+  {
+    "revision": "3abdc819b253d7b90f72247793a04e39",
+    "url": "/portfolio/static/media/flailing_magikarp.gif:Zone.3abdc819.Identifier"
   },
   {
     "revision": "fce6080726685cabdb4f75a0d8018325",
