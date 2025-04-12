@@ -428,6 +428,9 @@ const degrees = {
 };
 
 const certifications = {
+  description: `
+    Collecting certs like Pokémon — fueled by curiosity, not by grinding Splash with Magikarp
+  `,
   certifications: [
     {
       title: "CISSP",
@@ -811,12 +814,13 @@ const certifications = {
 const experience = {
   title: "Experience",
   subtitle: "Work",
-  description: `
+  description_paragraph_1: `
     I’ve worked as a Software Engineer at places from government agencies to a health‑tech startup.
     I’ve dipped my toes into software development, cybersecurity, DevOps, cloud, and even machine learning.
-    Above all, I’m a tech problem‑solver who loves building robust, secure, and scalable solutions.
-    It helps that I am a nerd and enjoy learning 🤓
     `,
+  description_paragraph_2: `
+    At the heart of it, I’m a curious tech problem-solver who enjoys building secure, scalable systems — and yes, I’m a proud nerd 🤓
+  `,
   header_image_path: "experience.svg",
   sections: [
     {
@@ -1012,8 +1016,8 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description: `
-  If I have spare time outside of work and I'm not busy studying, I like to work on side projects.  
-  The projects listed here are a mix of academic and personnal work (out of interest or to explore a new technology)  
+  When I’m not working or studying, I like to tinker with side projects, some academic, others just for fun or to explore a new tech stack.
+ I like to build, break and learn by doing
   `,
   avatar_image_path: "projects_image.svg",
 };

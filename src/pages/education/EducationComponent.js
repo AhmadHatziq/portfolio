@@ -10,6 +10,7 @@ import { competitiveSites } from "../../portfolio";
 import { certifications } from "../../portfolio";
 import "./EducationComponent.css";
 import { Fade } from "react-reveal";
+import magikarpGif from "../../assets/images/flailing_magikarp.gif";
 
 class Education extends Component {
   render() {
@@ -37,6 +38,13 @@ class Education extends Component {
                 {/*
                 <CompetitiveSites logos={competitiveSites.competitiveSites} />
                 */}
+                <p
+                  className="experience-header-detail-text subTitle"
+                  style={{ color: theme.secondaryText }}
+                >
+                  {certifications["description"]}
+                </p>
+                <img src={magikarpGif} alt="Magikarp" width="40" height="40" />
               </div>
             </div>
           </Fade>
