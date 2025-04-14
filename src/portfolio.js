@@ -416,8 +416,7 @@ const degrees = {
       alt_name: "WQ MFE",
       duration: "2024 Oct - Ongoing",
       descriptions: [
-        "⚡ Because one Master’s degree clearly wasn’t enough, I jumped into an MFE to deep dive further into finance (thanks MAS)",
-        "⚡ After a stats degree full of elegant math and not-so-elegant p-values, I was itching to apply those skills to something real — like markets, risk, and money actually moving",
+        "⚡ I wanted to explore finance more deeply and this program happened to be free (win-win).",
         "⚡ So far, I’ve covered Options Trading and time series models like GARCH — finally putting stats to work outside a chalkboard",
         "⚡ I’m only 3 out of 10 courses in... so time will tell if I finish this (fingers crossed and caffeinated).",
       ],
