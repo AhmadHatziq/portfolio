@@ -1,5 +1,7 @@
 /* Change this file to get your personal Porfolio */
 
+import worldQuantTranscript from "../src/assets/images/transcripts/WorldQuant_Transcript.png";
+
 // Website related settings
 const settings = {
   isSplash: false, // Change this to false if you don't want Splash screen.
@@ -420,8 +422,7 @@ const degrees = {
         "⚡ So far, I’ve covered Options Trading and time series models like GARCH — finally putting stats to work outside a chalkboard",
         "⚡ I’m only 3 out of 10 courses in... so time will tell if I finish this (fingers crossed and caffeinated).",
       ],
-      website_link:
-        "https://drive.google.com/file/d/1DHGF1BYhu7_Ga-VruDW4Xg2njvM41zTo/view?usp=drive_link",
+      website_link: worldQuantTranscript,
     },
   ],
 };
