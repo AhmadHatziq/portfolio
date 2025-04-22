@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1c12959d2432b65f11da8b402809d149",
+    "revision": "de1419d6187b0b4e43596a73bd162888",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "ebfa9e56a7de6ba7e2f1",
+    "revision": "de7749a5c46faf32ade9",
     "url": "/portfolio/static/css/main.5995091c.chunk.css"
   },
   {
-    "revision": "da2771919afae1744b8d",
-    "url": "/portfolio/static/js/2.dd53f12c.chunk.js"
+    "revision": "ed9802bab4482f20de32",
+    "url": "/portfolio/static/js/2.92c7315d.chunk.js"
   },
   {
-    "revision": "ebfa9e56a7de6ba7e2f1",
-    "url": "/portfolio/static/js/main.d1a385c1.chunk.js"
+    "revision": "de7749a5c46faf32ade9",
+    "url": "/portfolio/static/js/main.8502ddef.chunk.js"
   },
   {
     "revision": "1d47b31c794f99caf0b5",
@@ -284,6 +284,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/hatziq_cartoon_v1.9a557a10.png"
   },
   {
+    "revision": "2b1d5227637e683c4210ac1429361d50",
+    "url": "/portfolio/static/media/hatziq_resume_2025_04_19.2b1d5227.pdf"
+  },
+  {
     "revision": "d3fccbe1db76b96f4f320d9c0f7da30c",
     "url": "/portfolio/static/media/ibm_logo.d3fccbe1.png"
   },
@@ -344,6 +348,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/nptel_logo.95a12a2b.png"
   },
   {
+    "revision": "7dcd0125c0e29f6dcea63d10ef5cb174",
+    "url": "/portfolio/static/media/nus_bachelor_cert.7dcd0125.pdf"
+  },
+  {
     "revision": "be2b894d0e02bf986de0ae2d2fe1b770",
     "url": "/portfolio/static/media/nus_logo.be2b894d.png"
   },
@@ -358,6 +366,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a5ea317c2b9fb968d1048a305d04acc6",
     "url": "/portfolio/static/media/nus_logo_vertical.a5ea317c.jpg"
+  },
+  {
+    "revision": "6911d6b772bab6c74a9b77c3a62f3482",
+    "url": "/portfolio/static/media/nus_master_cert.6911d6b7.pdf"
   },
   {
     "revision": "414dfbd98516b39255a3e22ed90b3f7d",
@@ -382,6 +394,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2c497738be3831492aeb6bdc43f19154",
     "url": "/portfolio/static/media/stanford_logo.2c497738.png"
+  },
+  {
+    "revision": "5b2edd8fce7e6be34b51307a07e20dcd",
+    "url": "/portfolio/static/media/sutd_cyber_sec_cert.5b2edd8f.pdf"
   },
   {
     "revision": "0df333660bc3ab1f24833bae7946dacf",

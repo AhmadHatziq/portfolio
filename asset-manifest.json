@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.5995091c.chunk.css",
-    "main.js": "/portfolio/static/js/main.d1a385c1.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.d1a385c1.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.8502ddef.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.8502ddef.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.5a6c37cd.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.5a6c37cd.js.map",
-    "static/js/2.dd53f12c.chunk.js": "/portfolio/static/js/2.dd53f12c.chunk.js",
-    "static/js/2.dd53f12c.chunk.js.map": "/portfolio/static/js/2.dd53f12c.chunk.js.map",
+    "static/js/2.92c7315d.chunk.js": "/portfolio/static/js/2.92c7315d.chunk.js",
+    "static/js/2.92c7315d.chunk.js.map": "/portfolio/static/js/2.92c7315d.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.db5cf0007920618fc01997a1cfbd4fd7.js": "/portfolio/precache-manifest.db5cf0007920618fc01997a1cfbd4fd7.js",
+    "precache-manifest.f5fd42fa9175ab1b242857ff7bba0511.js": "/portfolio/precache-manifest.f5fd42fa9175ab1b242857ff7bba0511.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.5995091c.chunk.css.map": "/portfolio/static/css/main.5995091c.chunk.css.map",
     "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
@@ -56,6 +56,7 @@
     "static/media/googleAssistant.svg": "/portfolio/static/media/googleAssistant.a6addc3f.svg",
     "static/media/harvardx_logo.webp": "/portfolio/static/media/harvardx_logo.3ccfdbfb.webp",
     "static/media/hatziq_cartoon_v1.png": "/portfolio/static/media/hatziq_cartoon_v1.9a557a10.png",
+    "static/media/hatziq_resume_2025_04_19.pdf": "/portfolio/static/media/hatziq_resume_2025_04_19.2b1d5227.pdf",
     "static/media/ibm_logo.png": "/portfolio/static/media/ibm_logo.d3fccbe1.png",
     "static/media/iiitk_logo.png": "/portfolio/static/media/iiitk_logo.571a8584.png",
     "static/media/intel_logo.jpg": "/portfolio/static/media/intel_logo.29152cf7.jpg",
@@ -71,16 +72,19 @@
     "static/media/mom_logo.png": "/portfolio/static/media/mom_logo.b450a9e1.png",
     "static/media/muffito_logo.png": "/portfolio/static/media/muffito_logo.069938a8.png",
     "static/media/nptel_logo.png": "/portfolio/static/media/nptel_logo.95a12a2b.png",
+    "static/media/nus_bachelor_cert.pdf": "/portfolio/static/media/nus_bachelor_cert.7dcd0125.pdf",
     "static/media/nus_logo.png": "/portfolio/static/media/nus_logo.be2b894d.png",
     "static/media/nus_logo_blue.svg": "/portfolio/static/media/nus_logo_blue.9c41209e.svg",
     "static/media/nus_logo_plain.jpg": "/portfolio/static/media/nus_logo_plain.381833ba.jpg",
     "static/media/nus_logo_vertical.jpg": "/portfolio/static/media/nus_logo_vertical.a5ea317c.jpg",
+    "static/media/nus_master_cert.pdf": "/portfolio/static/media/nus_master_cert.6911d6b7.pdf",
     "static/media/portfolio.gif": "/portfolio/static/media/portfolio.414dfbd9.gif",
     "static/media/programmer.svg": "/portfolio/static/media/programmer.5faf790b.svg",
     "static/media/projects_image.svg": "/portfolio/static/media/projects_image.b8ba9487.svg",
     "static/media/pwa.png": "/portfolio/static/media/pwa.71408db7.png",
     "static/media/spf_logo.png": "/portfolio/static/media/spf_logo.7eefca98.png",
     "static/media/stanford_logo.png": "/portfolio/static/media/stanford_logo.2c497738.png",
+    "static/media/sutd_cyber_sec_cert.pdf": "/portfolio/static/media/sutd_cyber_sec_cert.5b2edd8f.pdf",
     "static/media/sutd_logo.png": "/portfolio/static/media/sutd_logo.0df33366.png",
     "static/media/talksCardBack.svg": "/portfolio/static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "/portfolio/static/media/talksCardBackAlt.3fa54242.svg",
@@ -94,8 +98,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.5a6c37cd.js",
-    "static/js/2.dd53f12c.chunk.js",
+    "static/js/2.92c7315d.chunk.js",
     "static/css/main.5995091c.chunk.css",
-    "static/js/main.d1a385c1.chunk.js"
+    "static/js/main.8502ddef.chunk.js"
   ]
 }
