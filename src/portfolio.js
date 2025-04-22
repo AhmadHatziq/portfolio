@@ -1,6 +1,10 @@
 /* Change this file to get your personal Porfolio */
 
-import worldQuantTranscript from "../src/assets/images/transcripts/WorldQuant_Transcript.png";
+import worldQuantCert from "../src/assets/images/transcripts/WorldQuant_Transcript.png";
+import resume from "../src/assets/resume_and_docs/hatziq_resume_2025_04_19.pdf";
+import nusBachelorCert from "../src/assets/resume_and_docs/nus_bachelor_cert.pdf";
+import nusMasterCert from "../src/assets/resume_and_docs/nus_master_cert.pdf";
+import sutdCert from "../src/assets/resume_and_docs/sutd_cyber_sec_cert.pdf";
 
 // Website related settings
 const settings = {
@@ -28,8 +32,7 @@ const greeting = {
   subTitle: `
     A passionate individual who always thrives to work on impactful projects and solve technical challenges
   `,
-  resumeLink:
-    "https://drive.google.com/file/d/108vbEJ6fdL-xYvTI6QfhtGOURvy7TETi/view?usp=sharing",
+  resumeLink: resume,
   portfolio_repository: "https://github.com/AhmadHatziq/portfolio",
   githubProfile: "https://github.com/AhmadHatziq/",
   linkedInLink: "https://www.linkedin.com/in/ahmad-hatziq-74a938171/",
@@ -380,8 +383,7 @@ const degrees = {
         "⚡ Systems Engineering still gave me solid exposure to computing — stuff like software development, networks and even a bit of ML sprinkled in",
         "⚡ Followed my curiosity into tech and data — interned as a Data Engineer, and wrapped things up with a Java-based capstone project in Software Development",
       ],
-      website_link:
-        "https://drive.google.com/file/d/1qqNVNAuG7a_oaXCHRhRmeG30JRdbYh5a/view",
+      website_link: nusBachelorCert,
     },
     {
       title: "National University of Singapore (NUS)",
@@ -394,8 +396,7 @@ const degrees = {
         "⚡ Took on a mix of technical courses like Machine Learning, Stochastic Processes, and Spatial Stats — the kind of math that makes your brain both cry and high-five you",
         "⚡ Outside of school, I kept busy with online coursework in NLP, Data Engineering, Spark and more — because one syllabus was clearly not enough",
       ],
-      website_link:
-        "https://drive.google.com/file/d/1r1IjpvcoeavG88rT6FGs0PjONHVcrPwt",
+      website_link: nusMasterCert,
     },
     {
       title: "Singapore University of Techology & Design (SUTD)",
@@ -408,8 +409,7 @@ const degrees = {
         "⚡ Covered topics like cybersecurity tools, digital forensics, systems security, and computer networks — learnt that firewalls don't actually involve fire",
         "⚡ It deepened my understanding of cybersecurity’s core areas and gave me a structured way to build on-the-job knowledge",
       ],
-      website_link:
-        "https://drive.google.com/file/d/1UNnqm_lkg1q1KjspfynPxJfRd0mmr3yn/view?usp=drive_link",
+      website_link: sutdCert,
     },
     {
       title: "WorldQuant University",
@@ -422,7 +422,7 @@ const degrees = {
         "⚡ So far, I’ve covered Options Trading and time series models like GARCH — finally putting stats to work outside a chalkboard",
         "⚡ I’m only 3 out of 10 courses in... so time will tell if I finish this (fingers crossed and caffeinated).",
       ],
-      website_link: worldQuantTranscript,
+      website_link: worldQuantCert,
     },
   ],
 };
