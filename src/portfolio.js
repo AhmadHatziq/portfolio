@@ -570,13 +570,13 @@ const certifications = {
       color_code: "#000000",
     },
     {
-      title: "Terraform Associate Certification Course",
-      subtitle: "- KodeKloud",
-      logo_path: "kodekloud_logo.jpg",
+      title: "Terraform Associate (003)",
+      subtitle: "- HashiCorp",
+      logo_path: "terraform_associate.png",
       certificate_link:
-        "https://learn.kodekloud.com/user/certificate/27785b2d-fccb-409e-81e4-db437f8949f9",
+        "https://www.credly.com/badges/bc8b58eb-dbe2-48d7-826e-74afbe3975c9/public_url",
       alt_name: "KodeKloud Terraform Course",
-      color_code: "#000000",
+      color_code: "#ffffff",
     },
     {
       title: "Neural Networks & Deep Learning",
