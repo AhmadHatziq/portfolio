@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.5995091c.chunk.css",
-    "main.js": "/portfolio/static/js/main.9fc2db7f.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.9fc2db7f.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.22a27165.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.22a27165.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.5a6c37cd.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.5a6c37cd.js.map",
     "static/js/2.656daaf5.chunk.js": "/portfolio/static/js/2.656daaf5.chunk.js",
     "static/js/2.656daaf5.chunk.js.map": "/portfolio/static/js/2.656daaf5.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.6e2dcf1caee6c1e4cc153fdff4ca5565.js": "/portfolio/precache-manifest.6e2dcf1caee6c1e4cc153fdff4ca5565.js",
+    "precache-manifest.b636610419de6f4e005d7a7701daa3fe.js": "/portfolio/precache-manifest.b636610419de6f4e005d7a7701daa3fe.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.5995091c.chunk.css.map": "/portfolio/static/css/main.5995091c.chunk.css.map",
     "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
-    "static/media/WorldQuant_Transcript.png": "/portfolio/static/media/WorldQuant_Transcript.0cb13356.png",
+    "static/media/WorldQuant_Transcript.png": "/portfolio/static/media/WorldQuant_Transcript.e77340e2.png",
     "static/media/address_image.svg": "/portfolio/static/media/address_image.16559172.svg",
     "static/media/ai_sg_logo.png": "/portfolio/static/media/ai_sg_logo.83c3c0dc.png",
     "static/media/algoexpert_logo.png": "/portfolio/static/media/algoexpert_logo.43707d5b.png",
@@ -109,6 +109,6 @@
     "static/js/runtime-main.5a6c37cd.js",
     "static/js/2.656daaf5.chunk.js",
     "static/css/main.5995091c.chunk.css",
-    "static/js/main.9fc2db7f.chunk.js"
+    "static/js/main.22a27165.chunk.js"
   ]
 }

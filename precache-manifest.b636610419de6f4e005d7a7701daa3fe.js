@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "54d1d3b88e35acdd6d2ae76919cc14fd",
+    "revision": "241f4aeeeb9e0780b92ab31045523b4e",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "9198378aae7b86798a8d",
+    "revision": "a2d10e771b3492a94921",
     "url": "/portfolio/static/css/main.5995091c.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.656daaf5.chunk.js"
   },
   {
-    "revision": "9198378aae7b86798a8d",
-    "url": "/portfolio/static/js/main.9fc2db7f.chunk.js"
+    "revision": "a2d10e771b3492a94921",
+    "url": "/portfolio/static/js/main.22a27165.chunk.js"
   },
   {
     "revision": "1d47b31c794f99caf0b5",
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "0cb13356f18abb691f9150873df2a08c",
-    "url": "/portfolio/static/media/WorldQuant_Transcript.0cb13356.png"
+    "revision": "e77340e27def8265dad3f249535cdb3f",
+    "url": "/portfolio/static/media/WorldQuant_Transcript.e77340e2.png"
   },
   {
     "revision": "16559172ca1d4d552390b48f19e102ba",
