@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "241f4aeeeb9e0780b92ab31045523b4e",
+    "revision": "0ef8a0027bf5c95313eab10e7f0334a9",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "a2d10e771b3492a94921",
+    "revision": "bd0a8a247ac3baa482ea",
     "url": "/portfolio/static/css/main.5995091c.chunk.css"
   },
   {
-    "revision": "7803b7f3c5a6d5cc520d",
-    "url": "/portfolio/static/js/2.656daaf5.chunk.js"
+    "revision": "7034b8358c3a64a524a0",
+    "url": "/portfolio/static/js/2.30d01efb.chunk.js"
   },
   {
-    "revision": "a2d10e771b3492a94921",
-    "url": "/portfolio/static/js/main.22a27165.chunk.js"
+    "revision": "bd0a8a247ac3baa482ea",
+    "url": "/portfolio/static/js/main.d9099863.chunk.js"
   },
   {
     "revision": "1d47b31c794f99caf0b5",
@@ -52,6 +52,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
+    "revision": "a076d4ee9d8c10b0c7876a4a2a20e36b",
+    "url": "/portfolio/static/media/PEN-200_Course_Completion.a076d4ee.png"
+  },
+  {
     "revision": "e77340e27def8265dad3f249535cdb3f",
     "url": "/portfolio/static/media/WorldQuant_Transcript.e77340e2.png"
   },
@@ -72,24 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/analytics_1.5725cc57.png"
   },
   {
-    "revision": "4c1b79e1eb489a32e726d48795fcdf91",
-    "url": "/portfolio/static/media/analytics_1.png:Zone.4c1b79e1.Identifier"
-  },
-  {
-    "revision": "a5fbbf640839e5558afe4a185a6ad8d4",
-    "url": "/portfolio/static/media/analytics_1.svg:Zone.a5fbbf64.Identifier"
-  },
-  {
     "revision": "c7db0a55e139f91211c4d6521e70d17e",
     "url": "/portfolio/static/media/analytics_2.c7db0a55.png"
-  },
-  {
-    "revision": "4c1b79e1eb489a32e726d48795fcdf91",
-    "url": "/portfolio/static/media/analytics_2.png:Zone.4c1b79e1.Identifier"
-  },
-  {
-    "revision": "809867694b2efc9a6a405798474bb8df",
-    "url": "/portfolio/static/media/analytics_2.svg:Zone.80986769.Identifier"
   },
   {
     "revision": "eaf02c2d0158b6b4b8c2a0a0cf830a04",
@@ -184,14 +172,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/devsecops_1.f4ea4fb3.svg"
   },
   {
-    "revision": "d41d8cd98f00b204e9800998ecf8427e",
-    "url": "/portfolio/static/media/devsecops_1.png:Zone.d41d8cd9.Identifier"
-  },
-  {
-    "revision": "2d34c578790bc13a56a16f6b7d993acf",
-    "url": "/portfolio/static/media/devsecops_1.svg:Zone.2d34c578.Identifier"
-  },
-  {
     "revision": "63f707f224c8a842ac928c36e3be879a",
     "url": "/portfolio/static/media/dsc_logo.63f707f2.png"
   },
@@ -280,10 +260,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/flailing_magikarp.a9474427.gif"
   },
   {
-    "revision": "3abdc819b253d7b90f72247793a04e39",
-    "url": "/portfolio/static/media/flailing_magikarp.gif:Zone.3abdc819.Identifier"
-  },
-  {
     "revision": "fce6080726685cabdb4f75a0d8018325",
     "url": "/portfolio/static/media/fullstack.fce60807.svg"
   },
@@ -310,10 +286,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9a557a1064722d7d0c649ec263715883",
     "url": "/portfolio/static/media/hatziq_cartoon_v1.9a557a10.png"
-  },
-  {
-    "revision": "5664444f701e0ab65a16c40f07e9ba64",
-    "url": "/portfolio/static/media/hatziq_cartoon_v1.png:Zone.5664444f.Identifier"
   },
   {
     "revision": "2b1d5227637e683c4210ac1429361d50",
@@ -402,6 +374,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6911d6b772bab6c74a9b77c3a62f3482",
     "url": "/portfolio/static/media/nus_master_cert.6911d6b7.pdf"
+  },
+  {
+    "revision": "13098da7a9931407ef83058d1f18428c",
+    "url": "/portfolio/static/media/offsec_logo.13098da7.png"
   },
   {
     "revision": "414dfbd98516b39255a3e22ed90b3f7d",
