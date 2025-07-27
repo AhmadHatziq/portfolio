@@ -5,6 +5,7 @@ import resume from "../src/assets/resume_and_docs/hatziq_resume_2025_04_19.pdf";
 import nusBachelorCert from "../src/assets/resume_and_docs/nus_bachelor_cert.pdf";
 import nusMasterCert from "../src/assets/resume_and_docs/nus_master_cert.pdf";
 import sutdCert from "../src/assets/resume_and_docs/sutd_cyber_sec_cert.pdf";
+import pen_200_cert from "../src/assets/images/transcripts/PEN-200_Course_Completion.png";
 
 // Website related settings
 const settings = {
@@ -550,6 +551,14 @@ const certifications = {
         "https://www.credly.com/badges/8eff2b28-451d-4ce0-9127-f4e62e2c222c/public_url",
       alt_name: "FFE WQU",
       color_code: "#bf94b4",
+    },
+    {
+      title: "Penetration Testing with Kali Linux (PEN-200)",
+      subtitle: "- OffSec",
+      logo_path: "offsec_logo.png",
+      certificate_link: pen_200_cert,
+      alt_name: "PEN-200 Completion Certificate",
+      color_code: "#000000",
     },
     {
       title: "LLMs using LangChain",
