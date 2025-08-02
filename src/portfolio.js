@@ -650,6 +650,14 @@ const certifications = {
       color_code: "#2f3c45",
     },
     {
+      title: "Natural Language Processing",
+      subtitle: "- Udacity",
+      logo_path: "udacity_logo.png",
+      certificate_link: "https://www.udacity.com/certificate/DCFXAFG3",
+      alt_name: "",
+      color_code: "#2f3c45",
+    },
+    {
       title: "DSE230x: Big Data Analytics Using Spark",
       subtitle: "- edX (UC San Diego)",
       logo_path: "edx_logo.svg",
