@@ -561,6 +561,15 @@ const certifications = {
       color_code: "#000000",
     },
     {
+      title: "Generative AI using LLMs",
+      subtitle: "- Coursera (DeepLearning AI)",
+      logo_path: "deeplearning_ai_logo.png",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/verify/G2ZF3SO31FIX",
+      alt_name: "Coursera DeepLearning Gen AI",
+      color_code: "#00000099",
+    },
+    {
       title: "LLMs using LangChain",
       subtitle: "- Educative",
       logo_path: "educative_logo.png",
