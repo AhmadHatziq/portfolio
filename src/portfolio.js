@@ -507,6 +507,15 @@ const certifications = {
       color_code: "#2A73CC",
     },
     {
+      title: "TensorFlow Developer Professional Certificate",
+      subtitle: "- Coursera (DeepLearning AI)",
+      logo_path: "deeplearning_ai_logo.png",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/specialization/6ENMKWTOWMI1",
+      alt_name: "Coursera DeepLearning Gen AI",
+      color_code: "#00000099",
+    },
+    {
       title: "Professional Certificate in Web Programming",
       subtitle: "- HarvardX (edX)",
       logo_path: "edx_logo.svg",
